@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">doctors</custom-type>
+		<custom-type translate="1">healthforum</custom-type>
+		<custom-type translate="1">hospitals</custom-type>
+		<custom-type translate="1">hospitals_team</custom-type>
+		<custom-type translate="1">regular_users</custom-type>
+		<custom-type translate="1">booking</custom-type>
+		<custom-type translate="1">reviews</custom-type>
+		<custom-type translate="1">product</custom-type>
+        <custom-type translate="1">shop_order</custom-type>
+        <custom-type translate="1">shop_coupon</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">languages</taxonomy>
+		<taxonomy translate="1">locations</taxonomy>
+		<taxonomy translate="1">specialities</taxonomy>
+		<taxonomy translate="1">services</taxonomy>
+		<taxonomy translate="1">dc_sidebars</taxonomy>
+		<taxonomy translate="1">product_cat</taxonomy>
+        <taxonomy translate="1">product_tag</taxonomy>
+        <taxonomy translate="1">product_shipping_class</taxonomy>
+    </taxonomies>   
+</wpml-config>
+
+

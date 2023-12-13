@@ -1,0 +1,6670 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Doctreat Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 06:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: doctreat_core"
+
+#: helpers/EmailHelper.php:86
+msgid " | All Rights Reserved"
+msgstr ""
+
+#: widgets/class-links.php:138
+#, php-format
+msgid "%d seconds ago"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:643
+msgid ""
+"%doctor_name% - To display Doctor name.<br>\n"
+"\t\t\t%invoice% - To display Doctor Invoice.<br>\n"
+"\t\t\t%package_name% - To display Package Name.<br>\n"
+"\t\t\t%amount% - To display Price<br>\n"
+"\t\t\t%status% - To display Payment status<br>\n"
+"\t\t\t%method% - To display Payment Method.<br>\n"
+"\t\t\t%date% - To display Purchase Date.<br>\n"
+"\t\t\t%expiry% - To display Expiry Date.<br>\n"
+"\t\t\t%signature% - To display site logo.\n"
+"\t\t\t"
+msgstr ""
+
+#: helpers/templates/article-status.php:75
+#, php-format
+msgid "%doctor_name% send article"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1379
+msgid ""
+"%doctor_name% — To display Doctor name.<br>\n"
+"\t\t\t\t\t\t%doctor_email% - To display Doctor email.<br>\n"
+"\t\t\t\t\t\t%doctor_profile_url% - To display Doctor profile link.<br>\n"
+"\t\t\t\t\t\t%invited_hospital_email% - To display invited hospital email.<br>"
+"\n"
+"\t\t\t\t\t\t%invitation_content% - To display content by doctor.<br>\n"
+"\t\t\t\t\t\t%invitation_link% - To display invitation link.<br>\n"
+"\t\t\t\t\t\t%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:697
+msgid ""
+"%doctor_name% — To display Doctor name.<br>\n"
+"\t\t\t%article_title% - To display Article title.<br>\n"
+"\t\t\t%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1481
+#: admin/theme-settings/settings/email-settings.php:1520
+msgid ""
+"%doctor_name% — To display Doctor name.<br>\n"
+"%article_title% - To display Article title.<br>\n"
+"%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1318
+msgid ""
+"%doctor_name% — To display Doctor name.<br>\n"
+"%invoice% - To display Doctor Invoice.<br>\n"
+"%package_name% - To display Package Name.<br>\n"
+"%amount% - To display Price<br>\n"
+"%status% - To display Payment status<br>\n"
+"%method% - To display Payment Method.<br>\n"
+"%date% - To display Purchase Date.<br>\n"
+"%expiry% - To display Expiry Date.<br>\n"
+"%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:849
+#: admin/theme-settings/settings/email-settings.php:889
+msgid ""
+"%doctor_name% — To display the doctor name.<br>\n"
+"%hospital_link% — To display hospital profile link.<br>\n"
+"%hospital_name% — To display hospital name.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:122
+msgid ""
+"%email% — To display the user email address.<br>\n"
+"%site% — To display the site name.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1425
+msgid ""
+"%hospital_name% — To display hospital name.<br>\n"
+"\t\t\t\t\t\t%hospital_email% - To display hospital email.<br>\n"
+"\t\t\t\t\t\t%hospital_profile_url% - To display hospital profile link.<br>\n"
+"\t\t\t\t\t\t%invited_docor_email% - To display invited docor email.<br>\n"
+"\t\t\t\t\t\t%invitation_content% - To display content by doctor.<br>\n"
+"\t\t\t\t\t\t%invitation_link% - To display invitation link.<br>\n"
+"\t\t\t\t\t\t%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:809
+msgid ""
+"%hospital_name% — To display the hospital name.<br>\n"
+"%doctor_link% — To display the doctor profile link.<br>\n"
+"%doctor_name% — To display the doctor name.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:603
+msgid ""
+"%name% — To display new registered  user name.<br>\n"
+"%email% — To display the email address of registered user.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:338
+msgid ""
+"%name% — To display the doctor name.<br>\n"
+"\t\t\t%email% — To display the user email address.<br>\n"
+"\t\t\t%link% — To display link for change password.<br>\n"
+"\t\t\t%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:162
+#: admin/theme-settings/settings/email-settings.php:444
+msgid ""
+"%name% — To display the doctor name.<br>\n"
+"%email% — To display the doctor email address.<br>\n"
+"%password% — To display the password for login.<br>\n"
+"%verification_link% — To display verification link.<br>\n"
+"%site% — To display the site name.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:293
+msgid ""
+"%name% — To display the hospital name.<br>\n"
+"\t\t\t\t\t\t\t\t%email% — To display the hospital email address.<br>\n"
+"\t\t\t\t\t\t\t\t%password% — To display the password for login.<br>\n"
+"\t\t\t\t\t\t\t\t%verification_link% — To display verification link.<br>\n"
+"\t\t\t\t\t\t\t\t%site% — To display the site name.<br>\n"
+"\t\t\t\t\t\t\t\t%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:205
+#: admin/theme-settings/settings/email-settings.php:249
+msgid ""
+"%name% — To display the hospital name.<br>\n"
+"%email% — To display the hospital email address.<br>\n"
+"%password% — To display the password for login.<br>\n"
+"%verification_link% — To display verification link.<br>\n"
+"%site% — To display the site name.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:939
+msgid ""
+"%name% — To display the user name.<br>\n"
+"\t\t\t\t%email% — To display the user email address.<br>\n"
+"\t\t\t\t%verification_code% — To display the verification code.<br>\n"
+"\t\t\t\t%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:400
+msgid ""
+"%name% — To display the user name.<br>\n"
+"%message% — To display content or message.<br>\n"
+"%reason% — To display link reopen account.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:744
+msgid ""
+"%question% — To display question name.<br>\n"
+"\t\t\t%category% - To display category.<br>\n"
+"\t\t\t%description% - To display description.<br>\n"
+"\t\t\t%name% - To display username.<br>\n"
+"\t\t\t%signature% - To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:980
+msgid ""
+"%user_name% — To display the user name.<br>\n"
+"\t\t\t\t%doctor_name% — To display the Doctor name.<br>\n"
+"\t\t\t\t%doctor_link% — To display the Doctor profile url.<br>\n"
+"\t\t\t\t%hospital_name% — To display the Hospital name.<br>\n"
+"\t\t\t\t%hospital_link% — To display the Hospital profile url.<br>\n"
+"\t\t\t\t%appointment_date% — To display the Appointment date.<br>\n"
+"\t\t\t\t%appointment_time% — To display the Appointment time.<br>\n"
+"\t\t\t\t%price% — To display the Booking total price.<br>\n"
+"\t\t\t\t%consultant_fee% — To display the consultation fee.<br>\n"
+"\t\t\t\t%description% — To display the booking description.<br>\n"
+"\t\t\t\t%email% — To display the User email.<br>\n"
+"\t\t\t\t%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1094
+#: admin/theme-settings/settings/email-settings.php:1147
+#: admin/theme-settings/settings/email-settings.php:1200
+msgid ""
+"%user_name% — To display the user name.<br>\n"
+"%doctor_name% — To display the Doctor name.<br>\n"
+"%doctor_link% — To display the Doctor profile link.<br>\n"
+"%hospital_name% — To display the hospital name.<br>\n"
+"%hospital_link% — To display the hospital profile link.<br>\n"
+"%appointment_time% — To display the appointment time.<br>\n"
+"%appointment_date% — To display the appointment date.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1044
+msgid ""
+"%user_name% — To display the user name.<br>\n"
+"%doctor_name% — To display the Doctor name.<br>\n"
+"%doctor_link% — To display the Doctor profile url.<br>\n"
+"%hospital_name% — To display the Hospital name.<br>\n"
+"%hospital_link% — To display the Hospital profile url.<br>\n"
+"%appointment_date% — To display the Appointment date.<br>\n"
+"%appointment_time% — To display the Appointment time.<br>\n"
+"%price% — To display the Booking total price.<br>\n"
+"%consultant_fee% — To display the consultation fee.<br>\n"
+"%description% — To display the booking description.<br>\n"
+"%email% — To display the User email.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1253
+msgid ""
+"%user_name% — To display the user name.<br>\n"
+"%doctor_name% — To display the Doctor name.<br>\n"
+"%rating% \t— To display ratings.<br>\n"
+"%recommend% \t— To display user recommend or not.<br>\n"
+"%waiting_time% — To display the waiting time.<br>\n"
+"%description% — To display the feedback description.<br>\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:501
+#: admin/theme-settings/settings/email-settings.php:544
+msgid ""
+"%username% — To display message receiver name.\n"
+"%sender_name% — To display sender name.\n"
+"%message% — To display message.\n"
+"%signature% — To display site logo."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:96
+msgid "0.1"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:97
+msgid "0.2"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:98
+msgid "0.3"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:99
+msgid "0.4"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:100
+msgid "0.5"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:101
+msgid "0.6"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:102
+msgid "0.7"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:103
+msgid "0.8"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:104
+msgid "0.9"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:74
+msgid "1 Second"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:105
+msgid "1.0"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:72
+msgid "1/4th Seconds"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:82
+msgid "2"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:75
+msgid "2 Seconds"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:318
+msgid "24/7 Working Time"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:83
+msgid "3"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:84
+msgid "4"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:105
+msgid "404 description"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:84
+msgid "404 image?"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:98
+msgid "404 sub title"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:91
+msgid "404 title"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:85
+msgid "5"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:51
+#: admin/theme-settings/settings/payment-settings.php:154
+msgid "</a>"
+msgstr ""
+
+#: hooks/hooks.php:1015
+#, php-format
+msgid "<i class=\"ti-heart\"></i> %s Like"
+msgid_plural "<i class=\"ti-heart\"></i> %s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/templates/email-receiver-chat-notification.php:24
+msgid "A new message received"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:738
+msgid "A new question has been posted"
+msgstr ""
+
+#: widgets/class-links.php:150
+#, php-format
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:141
+#, php-format
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:156
+#, php-format
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:153
+#, php-format
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:159
+#, php-format
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:144 widgets/class-links.php:147
+#, php-format
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/shortcodes/sc-about-us.php:37
+msgid "About us"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:93
+msgid "Access Token"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:100
+msgid "Access Token Secret"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:532
+msgid "Account approved"
+msgstr ""
+
+#: helpers/templates/email-published.php:22
+msgid "Account Approved!"
+msgstr ""
+
+#: helpers/templates/email-delete-account.php:22
+msgid "Account Deleted"
+msgstr ""
+
+#: hooks/hooks.php:145
+msgid "Account has been approved and email has been sent to user."
+msgstr ""
+
+#: hooks/hooks.php:112
+msgid "Account has been disabled"
+msgstr ""
+
+#: hooks/hooks.php:1445
+msgid "Account Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:119
+msgid "Ad code"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:116
+msgid "Add Address"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:733
+msgid "Add admin email address, leave it empty to use from WordPress"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:142 admin/metaboxes/page-options.php:186
+#: admin/metaboxes/post-options.php:176
+msgid "Add any shortcode in textarea"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:115
+msgid "Add background overlay color"
+msgstr ""
+
+#: admin/post-types/bookings.php:42
+#: admin/theme-settings/settings/booking-settings.php:81
+msgid "Add Booking"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:115
+msgid "Add booking details"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:142
+msgid "Add butten text. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:165
+msgid "Add butten url"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:151
+msgid "Add butten url."
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:104
+#: elementor/shortcodes/dc-by-specialities.php:101
+#: elementor/shortcodes/dc-search-by-location.php:101
+msgid "Add button link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:126
+msgid "Add button text"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:41
+msgid "Add button text or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:158
+msgid "Add Button title"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:95
+#: elementor/shortcodes/dc-by-specialities.php:92
+msgid "Add button title. Leave it empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:92
+msgid "Add button title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:131
+msgid "Add button url"
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:105
+msgid "Add Clients"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:142
+msgid ""
+"Add code. It will be like \"en\" for english. Leave it empty to use default. "
+"Click here to get code <a href=\"https://developers.google.com/admin-"
+"sdk/directory/v1/languages\" target=\"_blank\"> Get Code </a>"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:108
+msgid "Add contact number."
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:74
+msgid "Add Copyright or leave it empty to hide"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:60
+msgid "Add copyright text for the emails in footer"
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:26
+msgid "Add Date"
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:27
+msgid "Add Date or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:96
+#: elementor/shortcodes/sc-about-us.php:91
+msgid "Add description"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:128
+msgid "Add description ."
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:58
+msgid "Add Description or leave it empty to hide"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:34
+msgid "Add description or leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:35
+msgid "Add description, which will serve as description on registration form"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:98
+#: elementor/shortcodes/dc-how-it-work-v2.php:119
+#: elementor/shortcodes/dc-how-it-work.php:94
+#: elementor/shortcodes/sc-working-process.php:99
+msgid "Add description. Leave it empty to hide description."
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:107
+#: elementor/shortcodes/sc-home-slider-v2.php:176
+msgid "Add description. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:113
+msgid "Add designation"
+msgstr ""
+
+#: elementor/shortcodes/dc-feedback.php:111
+msgid "Add Detail"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:108
+#: elementor/shortcodes/sc-contact-us-form.php:104
+#: elementor/shortcodes/sc-online-help.php:96
+msgid "Add Details"
+msgstr ""
+
+#: admin/post-types/doctors.php:75
+msgid "Add Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:136
+msgid "Add Doctor Location"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:88
+msgid ""
+"Add Doctors ids or leveve it empty to show latest doctors by Speciality."
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:109
+msgid ""
+"Add Doctors ids or leveve it empty to show latest doctors by speciality."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:335
+msgid "Add Education"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:132
+msgid "Add Email address"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:88
+msgid "Add email footer background color"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:95
+msgid "Add email footer text color"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:66
+msgid ""
+"Add email sender name here like: Shawn Biyeam. Default your site name will "
+"be used."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:73
+msgid ""
+"Add email sender tagline here like: Team Doctreat. Default your site tagline "
+"will be used."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:80
+msgid "Add email sender url here."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:286
+msgid "Add Experience"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:126
+msgid "Add facebook link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-feedback.php:96
+msgid "Add Feedback"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:137
+msgid "Add feedback button title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:146
+msgid "Add feedback button url. leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:174
+msgid "Add feedback questions."
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:128
+msgid "Add feedback sub title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:119
+msgid "Add feedback title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:98
+#: elementor/shortcodes/sc-home-slider.php:123
+msgid "Add first button text"
+msgstr ""
+
+#: elementor/shortcodes/sc-online-help.php:111
+msgid "Add first button text "
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:105
+#: elementor/shortcodes/sc-home-slider.php:128
+#: elementor/shortcodes/sc-online-help.php:119
+msgid "Add first button url"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:818
+msgid "Add gallery"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:150
+msgid "Add googleplus link. Leave it empty to hide."
+msgstr ""
+
+#: admin/post-types/healthforum.php:40
+msgid "Add Health Forum Post"
+msgstr ""
+
+#: admin/post-types/hospital.php:75
+msgid "Add Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:46
+msgid "Add Hospital Team"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:47
+msgid "Add Image"
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:126
+#: elementor/shortcodes/sc-contact-details.php:84
+#: elementor/shortcodes/sc-online-help.php:104
+msgid "Add image"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:48
+msgid "Add image or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:151
+msgid "Add Image. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:144
+msgid "Add instagram link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:138
+msgid "Add LinkedIn link. Leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:145
+msgid "Add min amount"
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:110 elementor/shortcodes/dc-team.php:108
+msgid "Add name"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:112
+msgid "Add name base for doctors like Dr, Prof. etc"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:120
+msgid "Add name base for regular users like Mr, Miss. etc"
+msgstr ""
+
+#: admin/post-types/bookings.php:43
+msgid "Add New Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:109
+msgid "Add New Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:239
+msgid "Add New Disease"
+msgstr ""
+
+#: admin/post-types/doctors.php:76
+msgid "Add New Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:137
+msgid "Add New Doctor Location"
+msgstr ""
+
+#: admin/post-types/hospital.php:76
+msgid "Add New Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:47
+msgid "Add New Hospital Team"
+msgstr ""
+
+#: admin/post-types/prescription.php:265
+msgid "Add New Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:115
+msgid "Add New Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:60
+msgid "Add New Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:213
+msgid "Add New Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:187
+msgid "Add New Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:135
+msgid "Add New Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:161
+msgid "Add New Medicine Usage"
+msgstr ""
+
+#: admin/post-types/regular_users.php:40
+msgid "Add New Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:45
+msgid "Add New Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:44
+msgid "Add New Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:175
+msgid "Add New Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:122
+msgid "Add New Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:92
+msgid "Add New Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:83
+msgid "Add New Vital Sign"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:100
+#: elementor/shortcodes/sc-latest-articals.php:99
+msgid "Add newsletter description. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:82
+#: elementor/shortcodes/sc-latest-articals.php:81
+msgid "Add newsletter title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:108
+msgid "Add Number"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:111
+#: elementor/shortcodes/sc-home-slider.php:103
+msgid "Add number"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-articals.php:121
+msgid ""
+"Add Number of latests posts. It's only working if  Posts ID's field is null."
+msgstr ""
+
+#: admin/post-types/regular_users.php:39
+msgid "Add Patient"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:124
+msgid "Add Phone"
+msgstr ""
+
+#: admin/post-types/healthforum.php:39
+msgid "Add Post"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:215
+msgid "Add posts ID's"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:216
+msgid ""
+"Add posts ID's with comma seprated e.g (10,19) if News by selection is By "
+"item."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-articals.php:108
+msgid ""
+"Add Posts ID's with comma(,) separated e.g(15,21). Leave it empty to show "
+"latest posts."
+msgstr ""
+
+#: admin/post-types/prescription.php:44
+msgid "Add Prescription"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:110
+msgid "Add question section detail. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:101
+msgid "Add question section sub title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:93
+msgid "Add question section title. leave it empty to hide."
+msgstr ""
+
+#: admin/post-types/reviews.php:43
+msgid "Add Review"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:160
+#: admin/metaboxes/doctors-options.php:185
+#: admin/metaboxes/doctors-options.php:273
+#: admin/metaboxes/doctors-options.php:388
+#: admin/metaboxes/doctors-options.php:414
+#: admin/metaboxes/doctors-options.php:467
+#: admin/metaboxes/hospitals-options.php:130
+#: admin/metaboxes/hospitals-options.php:189
+msgid "Add row"
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:112
+#: elementor/shortcodes/sc-home-slider.php:133
+msgid "Add second button text"
+msgstr ""
+
+#: elementor/shortcodes/sc-online-help.php:127
+msgid "Add second button text "
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:119
+#: elementor/shortcodes/sc-home-slider.php:138
+#: elementor/shortcodes/sc-online-help.php:135
+msgid "Add second button url"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:118
+msgid "Add secondary title"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:106
+msgid "Add section"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:107
+msgid "Add section button text. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:116
+msgid "Add section button url. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:98
+msgid "Add section description. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:86
+#: elementor/shortcodes/dc-by-specialities.php:83
+#: elementor/shortcodes/dc-search-by-location.php:83
+msgid "Add section heading. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:89
+#: elementor/shortcodes/dc-easy-steps.php:89
+#: elementor/shortcodes/dc-feedback.php:89
+#: elementor/shortcodes/dc-search-form.php:133
+#: elementor/shortcodes/dc-team.php:89
+#: elementor/shortcodes/sc-working-process.php:90
+#: elementor/shortcodes/wt-healthforum-banner.php:89
+msgid "Add section sub title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:80
+#: elementor/shortcodes/dc-easy-steps.php:80
+#: elementor/shortcodes/dc-feedback.php:80
+#: elementor/shortcodes/dc-search-form.php:80
+#: elementor/shortcodes/dc-search-form.php:124
+#: elementor/shortcodes/dc-team.php:80
+#: elementor/shortcodes/sc-working-process.php:81
+#: elementor/shortcodes/wt-healthforum-banner.php:80
+#: elementor/shortcodes/wt-healthforum.php:80
+#: elementor/shortcodes/wt-healthforum.php:111
+#: elementor/shortcodes/wt-news-articles.php:82
+msgid "Add section title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:125
+msgid "Add section Upload image. Leave it empty to hide."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:522
+#: admin/metaboxes/hospitals-options.php:250
+#: admin/metaboxes/classes/class-form-attributes.php:608
+msgid "Add Services"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:139 admin/metaboxes/page-options.php:182
+#: admin/metaboxes/post-options.php:172
+msgid "Add shortcode"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:122
+#: elementor/shortcodes/sc-home-slider.php:92
+msgid "Add slide"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:96
+msgid "Add Speciality Image or leveve it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:115
+#: elementor/shortcodes/dc-feedback.php:106
+#: elementor/shortcodes/dc-how-it-work-v2.php:89
+#: elementor/shortcodes/dc-how-it-work-v2.php:118
+#: elementor/shortcodes/dc-how-it-work.php:93
+#: elementor/shortcodes/sc-about-us.php:84
+#: elementor/shortcodes/sc-about-us.php:141
+#: elementor/shortcodes/sc-contact-details.php:100
+#: elementor/shortcodes/sc-contact-us-form.php:96
+#: elementor/shortcodes/sc-custom-links.php:121
+#: elementor/shortcodes/sc-home-slider.php:113
+#: elementor/shortcodes/sc-online-help.php:88
+#: elementor/shortcodes/sc-working-process.php:125
+msgid "Add sub title"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:27
+#: admin/theme-settings/settings/maintainance-settings.php:51
+msgid "Add sub title or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:91
+#: elementor/shortcodes/sc-latest-articals.php:90
+msgid "Add sub title. leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1421
+msgid "Add subject for doctors invitation email."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1375
+msgid "Add subject for hospital invitation email."
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:98
+#: elementor/shortcodes/sc-home-slider-v2.php:168
+msgid "Add subtitle. leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:65
+msgid "Add success description or leave it empty to hide"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:58
+msgid "Add success title or leave it empty to hide"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:103
+msgid "Add team Member"
+msgstr ""
+
+#: elementor/shortcodes/dc-feedback.php:101
+msgid "Add Title"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:110
+#: elementor/shortcodes/dc-how-it-work-v2.php:82
+#: elementor/shortcodes/dc-how-it-work-v2.php:113
+#: elementor/shortcodes/dc-how-it-work.php:88
+#: elementor/shortcodes/sc-about-us.php:77
+#: elementor/shortcodes/sc-about-us.php:133
+#: elementor/shortcodes/sc-contact-details.php:92
+#: elementor/shortcodes/sc-contact-us-form.php:88
+#: elementor/shortcodes/sc-custom-links.php:116
+#: elementor/shortcodes/sc-home-slider.php:108
+#: elementor/shortcodes/sc-online-help.php:80
+#: elementor/shortcodes/sc-top-rated.php:79
+#: elementor/shortcodes/sc-working-process.php:120
+msgid "Add title"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:203
+msgid "Add title here"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:20
+#: admin/theme-settings/settings/maintainance-settings.php:43
+msgid "Add title or leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:28
+msgid "Add title, which will serve as title on registration form"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:89
+#: elementor/shortcodes/sc-home-slider-v2.php:159
+msgid "Add title. leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:31
+msgid "Add titlebar background color."
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:38
+msgid "Add titlebar text color."
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:132
+msgid "Add twitter link. Leave it empty to hide."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:132
+msgid "Add upload size"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:124
+msgid "Add URL"
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:115
+msgid "Add Url"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:257
+#: admin/metaboxes/doctors-options.php:258
+msgid "Add video url"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:105
+#: elementor/shortcodes/dc-how-it-work-v2.php:103
+#: elementor/shortcodes/dc-how-it-work.php:83
+#: elementor/shortcodes/sc-working-process.php:115
+msgid "Add work process"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:156
+msgid "Add youtube link. Leave it empty to hide."
+msgstr ""
+
+#: widgets/class-contact-info.php:159 admin/metaboxes/doctors-options.php:204
+#: admin/metaboxes/hospitals-options.php:148
+msgid "Address"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:73
+msgid ""
+"Admin can enable appointment on calls. Either phone calls received to admin "
+"or allow doctors to show their own phone numbers to get appointments."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:731
+msgid "Admin email"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:585
+msgid "Admin email address"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:598
+msgid "Admin new user subject"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:188
+msgid "Admin Share"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:638
+msgid "Admin subscription subject"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:576
+#: admin/theme-settings/settings/email-settings.php:578
+msgid "Admin Templates"
+msgstr ""
+
+#: widgets/class-adds.php:30
+msgid "ads"
+msgstr ""
+
+#. Base ID
+#: widgets/class-adds.php:27
+msgid "Ads | Doctreat"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:231
+#: elementor/shortcodes/sc-home-slider-v2.php:255
+msgid "Advanced Search"
+msgstr ""
+
+#: admin/post-types/prescription.php:104
+msgid "All Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:234
+msgid "All Diseases"
+msgstr ""
+
+#: admin/post-types/prescription.php:260
+msgid "All Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:110
+msgid "All Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:55
+msgid "All Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:208
+msgid "All Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:182
+msgid "All Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:130
+msgid "All Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:156
+msgid "All Medicine Usage"
+msgstr ""
+
+#: admin/settings/settings.php:167
+msgid "All Rights Reserved"
+msgstr ""
+
+#: admin/post-types/texonomies.php:170
+msgid "All services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:117
+msgid "All Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:87
+msgid "All Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:78
+msgid "All Vital Sign"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:36
+msgid "Allow booking fee to 0"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:37
+msgid "Allow booking fee to 0, while booking with doctor"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:25
+msgid "Allow consultation fee to 0"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:26
+msgid "Allow consultation fee to 0, while adding location"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:72
+msgid ""
+"Allow the users to select multiple location from the edit post in admin "
+"dashboard only"
+msgstr ""
+
+#: admin/settings/settings.php:140
+msgid "allow_url_fopen and allow_url_include must be on"
+msgstr ""
+
+#: shortcodes/class-authentication.php:164
+msgid "Already Have an Account?"
+msgstr ""
+
+#. Author of the plugin
+#: admin/settings/settings.php:167
+msgid "Amentotech"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:186
+#: admin/partials/class-system-payout-listing.php:176
+#: admin/partials/class-system-payout-listing.php:333
+msgid "Amount"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:61 widgets/class-apps-downloads.php:64
+msgid "Android app"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:258
+#: elementor/shortcodes/wt-healthforum.php:315
+msgid "Answered"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:13
+msgid "Api Settings"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:167
+msgid "APP"
+msgstr ""
+
+#: widgets/class-apps.php:60
+msgid "App downloads"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:103
+msgid "App store Image url"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:99
+msgid "App Store Link"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:116
+msgid "Application link"
+msgstr ""
+
+#: helpers/templates/booking-request.php:129
+msgid "Appoinment request"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:19
+msgid "Appointment"
+msgstr ""
+
+#: helpers/templates/booking-request.php:66
+msgid "Appointment confirmation"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:71
+msgid "Appointment on call?"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:323
+msgid "Appointments Image"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:96
+msgid "Appointments type?"
+msgstr ""
+
+#: helpers/templates/booking-request.php:187
+#: admin/theme-settings/settings/email-settings.php:1088
+#: admin/theme-settings/settings/email-settings.php:1141
+msgid "Approved appoinment"
+msgstr ""
+
+#: helpers/templates/team-request.php:73
+msgid "Approved request to join hospital"
+msgstr ""
+
+#. Base ID
+#: widgets/class-apps-downloads.php:27
+msgid "Apps Download | Doctreat"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:716
+#: admin/theme-settings/settings/email-settings.php:1500
+#: admin/theme-settings/settings/email-settings.php:1539
+msgid "Article content"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:685
+msgid "Article Email template with pending status"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:691
+msgid "Article needs approval"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:692
+#: admin/theme-settings/settings/email-settings.php:1476
+msgid "Article pending subject"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1515
+msgid "Article publish subject"
+msgstr ""
+
+#: admin/theme-settings/settings/article-settings.php:11
+msgid "Article Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/article-settings.php:20
+msgid "Article status?"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1461
+#: admin/theme-settings/settings/email-settings.php:1463
+msgid "Article Templates"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:377
+msgid "Articles Image for Dashboard"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:123
+#: elementor/shortcodes/wt-news-articles.php:157
+msgid "ASC"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:209
+msgid "Ask Free Query"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:21
+msgid "Ask Query To Qualifed Doctors"
+msgstr ""
+
+#: includes/class-system-activator.php:61
+#: includes/class-system-activator.php:62
+#: elementor/shortcodes/sc-authentication.php:37
+msgid "Authentication"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:94
+msgid "Auto play"
+msgstr ""
+
+#: admin/theme-settings/settings/article-settings.php:24
+msgid "Auto published"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:79
+msgid "Autoplay slides"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:341
+msgid "Availability Text"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:335
+msgid "Available Balance Image"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:347
+msgid "Avalible Balance Image"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:383
+msgid "Awards"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:33
+msgid "Awards & Downloads"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:142
+msgid "Background Image"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:114
+msgid "Background overlay color"
+msgstr ""
+
+#: hooks/hooks.php:1204
+msgid "Bank Account Name "
+msgstr ""
+
+#: hooks/hooks.php:1205
+msgid "Bank Account Number "
+msgstr ""
+
+#: hooks/hooks.php:1209
+msgid "Bank BIC/SWIFT"
+msgstr ""
+
+#: hooks/hooks.php:1208
+msgid "Bank IBAN"
+msgstr ""
+
+#: hooks/hooks.php:1206
+msgid "Bank Name"
+msgstr ""
+
+#: hooks/hooks.php:1207
+msgid "Bank Routing Number"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:44
+msgid "Body paragraph"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:184
+#: admin/post-types/bookings.php:39 admin/post-types/bookings.php:40
+#: admin/post-types/bookings.php:41
+msgid "Booking"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:509
+msgid "Booking Contact number"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:190
+msgid "Booking detail"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:39
+#: admin/metaboxes/classes/class-metaboxes.php:28
+msgid "Booking Details"
+msgstr ""
+
+#: admin/post-types/bookings.php:86
+msgid "Booking ID#"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:11
+msgid "Booking Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:921
+msgid "Booking Templates"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:42
+msgid "Both doctors and hospitals"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:30
+msgid "Both hospitals and clinics"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:111
+msgid "Bottom"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:151 admin/metaboxes/post-options.php:141
+msgid "Breadcrumb background color"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:160 admin/metaboxes/post-options.php:150
+msgid "Breadcrumb text color"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:118 admin/metaboxes/page-options.php:135
+#: admin/metaboxes/post-options.php:125
+msgid "Breadcrumb?"
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:19
+msgid "Breadcrumbs"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:141
+msgid "Butten Text"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:150
+msgid "Butten Url"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:103
+#: elementor/shortcodes/dc-by-specialities.php:100
+msgid "Button Link"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:100
+msgid "Button link"
+msgstr ""
+
+#: widgets/class-query-online.php:125
+#: elementor/shortcodes/wt-healthforum-banner.php:106
+msgid "Button Text"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work.php:105
+#: admin/theme-settings/settings/health-forum.php:40
+msgid "Button text"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:94
+#: elementor/shortcodes/dc-by-specialities.php:91
+msgid "Button Title"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:91
+msgid "Button title"
+msgstr ""
+
+#: widgets/class-query-online.php:129
+#: elementor/shortcodes/wt-healthforum-banner.php:115
+msgid "Button Url"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work.php:110
+msgid "Button url"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:99
+msgid "By Admin"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:108
+msgid "By Categories"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:100
+msgid "By Doctors"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:90
+msgid ""
+"By enable this patient will be able to add feedback having atleast 1 booking "
+"with the doctor. By defult any user can post a feedback."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:107
+msgid "By item"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:37
+msgid "By locations"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:153
+msgid "Calendar Date Format"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:139
+msgid "Calendar Language"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1194
+msgid "cancelled appoinment"
+msgstr ""
+
+#: helpers/templates/booking-request.php:240
+msgid "Cancelled appointment"
+msgstr ""
+
+#: helpers/templates/team-request.php:121
+msgid "Cancelled request to join hospital"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:140
+msgid "Categories"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:130
+msgid "Categories settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:478
+msgid "Chat message email"
+msgstr ""
+
+#: chat/class-chat-system.php:461
+msgid "Chat Messages Found!"
+msgstr ""
+
+#: chat/class-chat-system.php:677
+msgid "Chat messages found!"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:484
+msgid "Chat notification"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:234
+msgid "Chat Settings"
+msgstr ""
+
+#: admin/post-types/prescription.php:101 admin/post-types/prescription.php:102
+#: admin/post-types/prescription.php:111
+msgid "Childhood illness"
+msgstr ""
+
+#: admin/partials/functions.php:91
+msgid "Choose File"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:94 admin/metaboxes/page-options.php:100
+#: admin/metaboxes/post-options.php:101
+msgid "Choose left sidebar."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:78
+msgid "Choose Page"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:79
+msgid "Choose registeration template page."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:130 admin/metaboxes/page-options.php:172
+#: admin/metaboxes/post-options.php:162
+msgid "Choose Resolution Slider"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:256
+msgid "Classic View Two Columns"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:113 admin/post-types/hospitalteam.php:120
+#: admin/post-types/reviews.php:119 admin/post-types/reviews.php:132
+msgid "Click for user details"
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:37
+msgid "Clients"
+msgstr ""
+
+#: hooks/hooks.php:605
+msgid "Close"
+msgstr ""
+
+#: admin/post-types/texonomies.php:318 admin/post-types/texonomies.php:384
+msgid "Color"
+msgstr ""
+
+#: widgets/class-contact-info.php:69
+msgid "company logo here"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:288
+msgid "Company Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:587
+msgid "Company name"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:291 admin/post-types/hospitalteam.php:294
+msgid "Consultation fee"
+msgstr ""
+
+#: widgets/class-query-online.php:137
+msgid "Consultation text"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:79
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:86
+msgid "Consumer Key Secret"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:37
+msgid "Contact Details"
+msgstr ""
+
+#: widgets/class-contact-info.php:30
+msgid "Contact information"
+msgstr ""
+
+#. Base ID
+#: widgets/class-contact-info.php:27
+msgid "Contact information | Doctreat"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:107
+msgid "Contact numbers"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:179
+msgid "Contact phone numbers"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:40
+msgid "Contact section"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-us-form.php:37
+msgid "Contact Us"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:76
+#: elementor/shortcodes/dc-by-specialities.php:73
+#: elementor/shortcodes/dc-clients.php:70
+#: elementor/shortcodes/dc-easy-steps.php:70
+#: elementor/shortcodes/dc-feedback.php:70
+#: elementor/shortcodes/dc-how-it-work-v2.php:75
+#: elementor/shortcodes/dc-how-it-work.php:75
+#: elementor/shortcodes/dc-search-by-location.php:73
+#: elementor/shortcodes/dc-search-form.php:70
+#: elementor/shortcodes/dc-team.php:70
+#: elementor/shortcodes/dokan-shortcodes.php:70
+#: elementor/shortcodes/sc-about-us.php:70
+#: elementor/shortcodes/sc-auth-login-button.php:71
+#: elementor/shortcodes/sc-auth-register-button.php:71
+#: elementor/shortcodes/sc-authentication.php:71
+#: elementor/shortcodes/sc-contact-details.php:76
+#: elementor/shortcodes/sc-contact-us-form.php:78
+#: elementor/shortcodes/sc-custom-links.php:70
+#: elementor/shortcodes/sc-download-apps.php:70
+#: elementor/shortcodes/sc-featured-doctros.php:72
+#: elementor/shortcodes/sc-home-slider-v2.php:70
+#: elementor/shortcodes/sc-home-slider.php:70
+#: elementor/shortcodes/sc-latest-articals.php:71
+#: elementor/shortcodes/sc-online-help.php:70
+#: elementor/shortcodes/sc-private-question.php:71
+#: elementor/shortcodes/sc-top-rated.php:72
+#: elementor/shortcodes/sc-working-process.php:71
+#: elementor/shortcodes/wt-healthforum-banner.php:70
+#: elementor/shortcodes/wt-healthforum.php:70
+#: elementor/shortcodes/wt-news-articles.php:72
+#: admin/theme-settings/settings/email-settings.php:1402
+#: admin/theme-settings/settings/email-settings.php:1448
+msgid "Content"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:14
+msgid "Content Background color"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:21
+msgid "Content color"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:130
+msgid "Content Section Alignment"
+msgstr ""
+
+#: widgets/class-adds.php:68
+msgid "Contents"
+msgstr ""
+
+#: helpers/EmailHelper.php:86
+#: admin/theme-settings/settings/maintainance-settings.php:73
+msgid "Copyright"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:32
+msgid "Copyright text"
+msgstr ""
+
+#: hooks/hooks.php:628 hooks/hooks.php:645
+#: elementor/shortcodes/sc-auth-login-button.php:168
+#: elementor/shortcodes/sc-auth-login-button.php:185
+msgid "Create account"
+msgstr ""
+
+#: admin/settings/settings.php:161
+msgid "Create Support Ticket"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:137
+msgid "Created / Modified Date"
+msgstr ""
+
+#: admin/partials/functions.php:276
+msgid "CRON Interval has been updated"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:152
+msgid "Cron job interval"
+msgstr ""
+
+#: admin/theme-settings/settings/css-js-settings.php:11
+msgid "CSS/JS Scripts"
+msgstr ""
+
+#: admin/settings/settings.php:138
+msgid "CURL should be enabled to download Unyson extensions and demo content."
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:134
+msgid "Current Tab"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:30
+msgid "Custom"
+msgstr ""
+
+#: admin/theme-settings/settings/css-js-settings.php:20
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-settings/settings/css-js-settings.php:30
+msgid "Custom JS"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:37
+msgid "Custom Links"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:109 admin/metaboxes/page-options.php:126
+#: admin/metaboxes/post-options.php:116
+msgid "Custom Settings"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:111 admin/metaboxes/page-options.php:128
+#: admin/metaboxes/post-options.php:118
+msgid "Custom Shortcode"
+msgstr ""
+
+#: hooks/hooks.php:1435
+msgid "Dasboard"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:92
+msgid "Dashboard search"
+msgstr ""
+
+#: admin/metaboxes/hospitals-options.php:116
+#: admin/post-types/hospitalteam.php:241
+msgid "Days I Offer My Services"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:427
+#: admin/theme-settings/settings/general-settings.php:29
+msgid "Default"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:30
+#: admin/theme-settings/settings/typography-settings.php:49
+#: admin/theme-settings/settings/typography-settings.php:68
+#: admin/theme-settings/settings/typography-settings.php:87
+#: admin/theme-settings/settings/typography-settings.php:106
+#: admin/theme-settings/settings/typography-settings.php:125
+#: admin/theme-settings/settings/typography-settings.php:144
+#: admin/theme-settings/settings/typography-settings.php:163
+msgid "Default Font for body ul li."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:312
+msgid "Default image for all type of other users."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:302
+msgid "Default image for all users banner"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:324
+msgid "Default image for Appointments Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:378
+msgid "Default image for Articles Image Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:336
+msgid "Default image for Available Balance Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:348
+msgid "Default image for Avalible Balance Image Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:296
+msgid "Default image for doctor"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:307
+msgid "Default image for hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:360
+msgid "Default image for Invoices Image Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:354
+msgid "Default image for Manage Services and specilities image sashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:384
+msgid "Default image for manage team image Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:449
+msgid "Default image for Map Marker"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:318
+msgid "Default image for Message Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:342
+msgid "Default image for Package Expiry Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:366
+msgid "Default image for Published Articles Image Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:330
+msgid "Default image for Saved Item Dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:476
+msgid "Default Latitude for map."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:389
+msgid "Default logo image for prescription pdf"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:483
+msgid "Default Longitude for map."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:82 admin/metaboxes/forum-options.php:108
+#: admin/metaboxes/page-options.php:88 admin/metaboxes/page-options.php:125
+#: admin/metaboxes/post-options.php:89 admin/metaboxes/post-options.php:115
+msgid "Default Setting"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:368
+msgid "Degree description"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:361
+#: admin/metaboxes/doctors-options.php:616
+msgid "Degree title"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:134
+#: admin/partials/class-system-payout-listing.php:141
+msgid "Delete"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:124
+#: elementor/shortcodes/wt-news-articles.php:158
+msgid "DESC"
+msgstr ""
+
+#: widgets/class-apps.php:117 admin/metaboxes/doctors-options.php:552
+#: admin/metaboxes/hospitals-options.php:280
+#: elementor/shortcodes/dc-clients.php:96
+#: elementor/shortcodes/dc-easy-steps.php:97
+#: elementor/shortcodes/dc-easy-steps.php:127
+#: elementor/shortcodes/dc-how-it-work-v2.php:124
+#: elementor/shortcodes/dc-how-it-work.php:99
+#: elementor/shortcodes/dc-team.php:96
+#: elementor/shortcodes/sc-download-apps.php:106
+#: elementor/shortcodes/sc-featured-doctros.php:99
+#: elementor/shortcodes/sc-latest-articals.php:98
+#: elementor/shortcodes/sc-working-process.php:98
+#: elementor/shortcodes/wt-healthforum-banner.php:97
+#: elementor/shortcodes/wt-news-articles.php:253
+#: admin/metaboxes/classes/class-form-attributes.php:597
+#: admin/theme-settings/settings/health-forum.php:33
+#: admin/theme-settings/settings/maintainance-settings.php:57
+#: admin/theme-settings/settings/registration-settings.php:34
+msgid "Description"
+msgstr ""
+
+#: widgets/class-contact-info.php:155 widgets/class-news-letters.php:82
+#: admin/partials/class-system-payout-listing.php:335
+#: admin/theme-settings/settings/payment-settings.php:114
+msgid "Details"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:11
+msgid "Direct Bank Transfer (BACS)"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:11
+msgid "Directory Settings"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:124 admin/metaboxes/page-options.php:145
+#: admin/metaboxes/post-options.php:135
+#: elementor/shortcodes/wt-healthforum.php:90
+msgid "Disable"
+msgstr ""
+
+#: admin/post-types/prescription.php:231 admin/post-types/prescription.php:232
+msgid "Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:241
+msgid "Diseases"
+msgstr ""
+
+#: hooks/hooks.php:1196 shortcodes/class-authentication.php:139
+msgid "Display Name"
+msgstr ""
+
+#: shortcodes/class-authentication.php:123
+msgid "Display name"
+msgstr ""
+
+#: admin/post-types/bookings.php:84 admin/post-types/doctors.php:74
+#: admin/post-types/hospitalteam.php:121 admin/post-types/hospitalteam.php:135
+msgid "Doctor"
+msgstr ""
+
+#: hooks/hooks.php:1199
+msgid "Doctor checkup starting price"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:74
+msgid "Doctor details"
+msgstr ""
+
+#: admin/post-types/doctors.php:135
+msgid "Doctor Location"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:187
+msgid "Doctor Share"
+msgstr ""
+
+#: admin/post-types/doctors.php:72 admin/post-types/doctors.php:73
+#: admin/theme-settings/settings/registration-settings.php:59
+#: admin/theme-settings/settings/search-doctors.php:43
+msgid "Doctors"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:26
+msgid ""
+"Doctors availability locations where he provide the services. It could be "
+"only one clinic or hospitals or both at the same time."
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities.php:37
+msgid "Doctors by specialities"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:107
+#: elementor/shortcodes/sc-top-rated.php:86
+msgid "Doctors IDs"
+msgstr ""
+
+#: admin/post-types/doctors.php:133 admin/post-types/doctors.php:134
+msgid "Doctors Locations"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:25
+msgid "Doctors locations"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:29
+msgid "Doctors Options"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:28
+msgid "Doctors own clinic"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1032
+msgid "Doctors receive appointment"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:37
+msgid "Doctors Specialities by location"
+msgstr ""
+
+#: admin/partials/functions.php:23
+msgid "Doctreat"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:30 widgets/class-apps.php:30
+msgid "Doctreat apps"
+msgstr ""
+
+#. Name of the plugin
+msgid "Doctreat Core"
+msgstr ""
+
+#: elementor/config.php:59
+msgid "Doctreat Elements"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:221
+msgid "Doctreat Header"
+msgstr ""
+
+#: widgets/class-recent-posts.php:33
+msgid "Doctreat Populor posts"
+msgstr ""
+
+#: widgets/class-query-online.php:30
+msgid "Doctreat Query Online"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:84
+msgid "Dokan My Orders"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:37
+msgid "Dokan Shortcode"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:79
+msgid "Dokan shortcodes"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:80
+msgid "Dokan shortcodes for the pages setup"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:37
+msgid "Download APPS"
+msgstr ""
+
+#: hooks/hooks.php:1212
+msgid "Download prescription"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:409
+msgid "Downloads"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:20
+#: admin/partials/class-system-earnings-listing.php:21
+#: admin/partials/class-system-earnings.php:35
+#: admin/partials/class-system-earnings.php:36
+#: admin/partials/class-system-earnings.php:56
+#: admin/partials/class-system-earnings.php:92
+msgid "Earnings"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:37
+msgid "Easy Steps"
+msgstr ""
+
+#: admin/post-types/bookings.php:44 admin/post-types/doctors.php:77
+#: admin/post-types/doctors.php:138 admin/post-types/healthforum.php:41
+#: admin/post-types/hospital.php:77 admin/post-types/hospitalteam.php:48
+#: admin/post-types/prescription.php:46 admin/post-types/regular_users.php:41
+#: admin/post-types/reviews.php:45
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types/bookings.php:45
+msgid "Edit Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:107
+msgid "Edit Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:237
+msgid "Edit Disease"
+msgstr ""
+
+#: admin/post-types/doctors.php:78
+msgid "Edit Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:139
+msgid "Edit Doctor Location"
+msgstr ""
+
+#: admin/post-types/healthforum.php:42
+msgid "Edit Health Forum Post"
+msgstr ""
+
+#: admin/post-types/hospital.php:78
+msgid "Edit Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:49
+msgid "Edit Hospital Team"
+msgstr ""
+
+#: admin/post-types/prescription.php:263
+msgid "Edit Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:113
+msgid "Edit Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:58
+msgid "Edit Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:211
+msgid "Edit Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:185
+msgid "Edit Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:133
+msgid "Edit Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:159
+msgid "Edit Medicine Usage"
+msgstr ""
+
+#: admin/post-types/regular_users.php:42
+msgid "Edit Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:47
+msgid "Edit Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:46
+msgid "Edit Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:173
+msgid "Edit Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:120
+msgid "Edit Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:90
+msgid "Edit Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:81
+msgid "Edit Vital Sign"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:330
+msgid "Education"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:32
+msgid "Education & Experience"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:97
+msgid ""
+"Either phone calls received to admin or allow doctors to show their own "
+"phone numbers to get appointments."
+msgstr ""
+
+#: hooks/hooks.php:635 shortcodes/class-authentication.php:90
+#: widgets/class-contact-info.php:163
+#: elementor/shortcodes/sc-auth-login-button.php:175
+msgid "Email"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:58
+msgid "Email address is required."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:46
+msgid "Email Banner"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:145
+#: admin/theme-settings/settings/email-settings.php:188
+#: admin/theme-settings/settings/email-settings.php:232
+#: admin/theme-settings/settings/email-settings.php:276
+#: admin/theme-settings/settings/email-settings.php:320
+#: admin/theme-settings/settings/email-settings.php:375
+#: admin/theme-settings/settings/email-settings.php:426
+#: admin/theme-settings/settings/email-settings.php:471
+#: admin/theme-settings/settings/email-settings.php:526
+#: admin/theme-settings/settings/email-settings.php:570
+#: admin/theme-settings/settings/email-settings.php:626
+#: admin/theme-settings/settings/email-settings.php:832
+#: admin/theme-settings/settings/email-settings.php:872
+#: admin/theme-settings/settings/email-settings.php:912
+#: admin/theme-settings/settings/email-settings.php:963
+#: admin/theme-settings/settings/email-settings.php:1027
+#: admin/theme-settings/settings/email-settings.php:1075
+#: admin/theme-settings/settings/email-settings.php:1129
+#: admin/theme-settings/settings/email-settings.php:1182
+#: admin/theme-settings/settings/email-settings.php:1235
+#: admin/theme-settings/settings/email-settings.php:1292
+msgid "Email Contents"
+msgstr ""
+
+#: widgets/class-apps.php:79
+msgid "Email ID"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:28
+msgid "Email Logo"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1082
+#: admin/theme-settings/settings/email-settings.php:1135
+msgid "Email Patient when booking is approved"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1188
+msgid "Email Patient when booking is cancelled"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:53
+msgid "Email Sender Avatar"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:65
+msgid "Email Sender Name"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:72
+msgid "Email Sender Tagline"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:79
+msgid "Email Sender URL"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:133
+#: admin/theme-settings/settings/email-settings.php:176
+#: admin/theme-settings/settings/email-settings.php:219
+#: admin/theme-settings/settings/email-settings.php:263
+#: admin/theme-settings/settings/email-settings.php:307
+#: admin/theme-settings/settings/email-settings.php:350
+#: admin/theme-settings/settings/email-settings.php:412
+#: admin/theme-settings/settings/email-settings.php:458
+#: admin/theme-settings/settings/email-settings.php:513
+#: admin/theme-settings/settings/email-settings.php:556
+#: admin/theme-settings/settings/email-settings.php:614
+#: admin/theme-settings/settings/email-settings.php:661
+#: admin/theme-settings/settings/email-settings.php:708
+#: admin/theme-settings/settings/email-settings.php:757
+#: admin/theme-settings/settings/email-settings.php:821
+#: admin/theme-settings/settings/email-settings.php:861
+#: admin/theme-settings/settings/email-settings.php:901
+#: admin/theme-settings/settings/email-settings.php:951
+#: admin/theme-settings/settings/email-settings.php:1000
+#: admin/theme-settings/settings/email-settings.php:1064
+#: admin/theme-settings/settings/email-settings.php:1110
+#: admin/theme-settings/settings/email-settings.php:1163
+#: admin/theme-settings/settings/email-settings.php:1216
+#: admin/theme-settings/settings/email-settings.php:1268
+#: admin/theme-settings/settings/email-settings.php:1335
+#: admin/theme-settings/settings/email-settings.php:1394
+#: admin/theme-settings/settings/email-settings.php:1440
+#: admin/theme-settings/settings/email-settings.php:1492
+#: admin/theme-settings/settings/email-settings.php:1531
+msgid "Email setting variables"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:11
+msgid "Email Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:877
+msgid "Email template for Cancelled request to join hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:150
+msgid "Email template for doctor registration"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:193
+msgid "Email template for hospitals registration"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:591
+msgid "Email template for new user to admin"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:237
+msgid "Email template for Patients"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1469
+msgid "Email template for pending article"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:281
+msgid "Email template for seller/vendor/pharmacy"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:631
+#: admin/theme-settings/settings/email-settings.php:1306
+msgid "Email template for subscription"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:326
+msgid "Email template for user to change password"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:837
+msgid "Email template to approved request to join a hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:381
+msgid "Email template to delete account"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1413
+msgid "Email template to invite doctors"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1367
+msgid "Email template to invite hospitals"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1508
+msgid "Email template with publish status"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1241
+msgid "Email to doctor after feedback from user."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:110
+msgid "Email to send app url"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:968
+msgid "Email to user for receiving appointment booking request."
+msgstr ""
+
+#: helpers/templates/booking-request.php:25
+msgid "Email Verification code"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:927
+msgid "Email verification code for booking"
+msgstr ""
+
+#: helpers/templates/email-authe.php:288
+msgid "Email Verification Link"
+msgstr ""
+
+#: helpers/EmailHelper.php:158
+msgid "email-header"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:79
+msgid "Emergency email"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:81
+msgid "Emergency email for Contact section "
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:71
+msgid "Emergency email text"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:73
+msgid "Emergency email text for Contact section "
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:55
+msgid "Emergency phone"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:57
+msgid "Emergency phone for Contact section "
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:73
+msgid "Emergency phone number"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:47
+#: admin/theme-settings/settings/header-settings.php:65
+msgid "Emergency text"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:49
+msgid "Emergency text for Contact section "
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:123 admin/metaboxes/page-options.php:144
+#: admin/metaboxes/post-options.php:134
+#: elementor/shortcodes/wt-healthforum.php:89
+msgid "Enable"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:90
+msgid "Enable cart"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:94
+msgid "Enable cart button in header"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:94
+msgid "Enable dashboard header search option"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:83
+msgid "Enable it to add custom bookings from doctor dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:72
+msgid "Enable login form."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:439
+#: admin/theme-settings/settings/directories-settings.php:455
+msgid "Enable Map Draggable."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:105
+msgid "Enable or Disable Base name for front-end pages."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:121 admin/metaboxes/page-options.php:142
+#: admin/metaboxes/page-options.php:155 admin/metaboxes/post-options.php:132
+#: admin/metaboxes/post-options.php:145
+msgid "Enable or disable breadcrumb for this page."
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:20
+msgid "Enable or disable breadcrumbs. It will hide all over the site"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:182
+msgid "Enable or Disable gallery for doctor and hospital."
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:21
+msgid "Enable or disable maintainace page"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:189
+msgid "Enable or Disable seo for post and pages."
+msgstr ""
+
+#: admin/metaboxes/page-options.php:167 admin/metaboxes/post-options.php:157
+msgid "Enable or disable text for this page."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:196
+msgid "Enable phone number in registration"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:241
+msgid "Enable real time chat or use simple inbox system."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:48
+msgid "Enable Registration Form?"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:87
+msgid "Enable Search Form"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:22
+msgid "Enable search form in header"
+msgstr ""
+
+#: admin/theme-settings/settings/social-settings.php:21
+msgid "Enable social links"
+msgstr ""
+
+#: admin/theme-settings/settings/social-settings.php:22
+msgid ""
+"Enable social links for the doctors and hospitals, then select what social "
+"links do you want to enable"
+msgstr ""
+
+#: admin/theme-settings/settings/social-settings.php:15
+msgid "Enable social settings for the doctors and hospitals"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:45
+msgid "Enable WooCommerce checkout"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:21
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:99
+msgid "Enable/Disable Ad"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:103
+msgid "Enable/Disable Base name"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:42
+msgid "Enable/Disable contact section"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:180
+msgid "Enable/Disable Gallery"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:55
+msgid "Enable/disable Gender search option"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:194
+msgid "Enable/Disable phone"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:485
+msgid ""
+"Enable/Disable receiver chat notifications. If enabled message email will be "
+"sent to the receiver."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:43
+msgid "Enable/Disable registration"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:50
+msgid "Enable/Disable registration form"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:187
+msgid "Enable/Disable SEO"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:91
+msgid "Enable/Disable the search form."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:593
+#: admin/metaboxes/doctors-options.php:613
+#: admin/partials/class-system-payouts.php:65
+msgid "End date"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:304
+#: admin/metaboxes/doctors-options.php:353
+msgid "Ending date"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:120
+msgid "Enter ad code here."
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:29
+msgid ""
+"Enter google map key here. It will be used for google maps. Get and Api key "
+"From <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\" target=\"_blank\"> Get API "
+"KEY </a>"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:18
+msgid "Enter your email"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:217
+msgid "EV"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:281
+msgid "Experiences"
+msgstr ""
+
+#: elementor/base.php:101 hooks/hooks.php:957 hooks/hooks.php:1240
+#: admin/theme-settings/settings/sharing-settings.php:18
+msgid "Facebook"
+msgstr ""
+
+#: hooks/hooks.php:1288
+msgid "Facebook Link"
+msgstr ""
+
+#: widgets/class-contact-info.php:172 elementor/shortcodes/dc-team.php:125
+msgid "Facebook link"
+msgstr ""
+
+#: hooks/hooks.php:1287
+msgid "Facebook Link?"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:21
+msgid "Facebook Sharing on/off"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:64
+msgid "Featured date"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:37
+msgid "Featured Doctors"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:70
+msgid "Featured user date, leave it empty to remove user from featured."
+msgstr ""
+
+#: elementor/shortcodes/dc-feedback.php:37
+msgid "Feedback"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:136
+msgid "Feedback button title"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:145
+msgid "Feedback button url"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:173
+msgid "Feedback Question"
+msgstr ""
+
+#: helpers/templates/feedback.php:24
+msgid "Feedback received"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:127
+msgid "Feedback sub title"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:118
+msgid "Feedback title"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:88
+msgid "Feedback to doctors"
+msgstr ""
+
+#: widgets/class-contact-info.php:193
+msgid "Feeds link"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:93
+msgid "Female"
+msgstr ""
+
+#: hooks/hooks.php:1194 shortcodes/class-authentication.php:80
+msgid "First Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:111
+#: admin/metaboxes/hospitals-options.php:74
+msgid "First name"
+msgstr ""
+
+#: hooks/hooks.php:175 hooks/hooks.php:176
+msgid "First Name is required"
+msgstr ""
+
+#: hooks/hooks.php:1344
+msgid "Flickr Link"
+msgstr ""
+
+#: hooks/hooks.php:1343
+msgid "Flickr Link?"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:87
+msgid "Footer background color"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:59
+msgid "Footer copyright text"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:19
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:23
+msgid "Footer Layout 1"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:11
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:94
+msgid "Footer text color"
+msgstr ""
+
+#: helpers/templates/email-get-password.php:24
+msgid "Forgot Password"
+msgstr ""
+
+#: hooks/hooks.php:626 elementor/shortcodes/sc-auth-login-button.php:166
+msgid "Forgot password?"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:79
+msgid "Form"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:102
+#: elementor/shortcodes/sc-home-slider-v2.php:139
+msgid "Form Enable/Disbale"
+msgstr ""
+
+#: elementor/shortcodes/sc-authentication.php:79
+msgid "Form type"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:258
+msgid "Four Columns"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:51
+msgid "Free Listing"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:235
+msgid "Full"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:36
+#: admin/metaboxes/doctors-options.php:242
+#: admin/metaboxes/hospitals-options.php:26
+#: admin/metaboxes/hospitals-options.php:53
+msgid "Gallery"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:87
+msgid "Gender"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:19
+#: admin/theme-settings/settings/email-settings.php:20
+#: admin/theme-settings/settings/general-settings.php:11
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:101
+msgid "General Templates"
+msgstr ""
+
+#: hooks/hooks.php:1211
+msgid "Generate prescription"
+msgstr ""
+
+#. Base ID
+#: widgets/class-apps.php:27
+msgid "Get Mobile App | Doctreat"
+msgstr ""
+
+#: hooks/hooks.php:639 elementor/shortcodes/sc-auth-login-button.php:179
+msgid "Get Pasword"
+msgstr ""
+
+#: admin/settings/settings.php:159
+msgid "Get Support"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:22
+msgid "Google API Key"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:94
+msgid "Google app Image url"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:28
+msgid "Google Map Key"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:90
+msgid "Google Play Link"
+msgstr ""
+
+#: elementor/base.php:116 elementor/base.php:121 hooks/hooks.php:1255
+#: hooks/hooks.php:1260
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/class-contact-info.php:181
+msgid "Google Plus link"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:40
+msgid "Google Share"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:43
+msgid "Google Share on/off"
+msgstr ""
+
+#: hooks/hooks.php:958
+msgid "Google+"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:149
+msgid "Googleplus link"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:94
+msgid "Grid"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:244
+msgid "Grid settings"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:63
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:82
+msgid "H2 Heading_typography"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:101
+msgid "H3 Heading Typography"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:120
+msgid "H4 Heading Typography"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:139
+msgid "H5 Heading Typography"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:158
+msgid "H6 Heading Typography"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:73
+msgid "Half Second"
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:44
+msgid "Header Layout"
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:48
+msgid "Header Layout 1"
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:18
+msgid "Header Settings"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:85
+#: elementor/shortcodes/dc-by-specialities.php:82
+#: elementor/shortcodes/dc-search-by-location.php:82
+msgid "Heading"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:168
+msgid "Health Form"
+msgstr ""
+
+#: admin/post-types/healthforum.php:36
+#: elementor/shortcodes/wt-healthforum.php:37
+msgid "Health Forum"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum-banner.php:37
+msgid "Health Forum Banner"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:31
+msgid "Health Forum Options"
+msgstr ""
+
+#: admin/post-types/healthforum.php:38
+msgid "Health Forum Post"
+msgstr ""
+
+#: admin/post-types/healthforum.php:37
+msgid "Health Forum Posts"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:11
+msgid "Health Forum Settings"
+msgstr ""
+
+#: helpers/templates/article-status.php:76
+msgid ""
+"Hello !<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t%doctor_name% send article %article_title% with pending status."
+"<br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/team-request.php:74
+msgid ""
+"Hello %doctor_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour request to join <a href=\"%hospital_link%\">"
+"%hospital_name%</a> is <b>Approved</b>.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/team-request.php:122
+msgid ""
+"Hello %doctor_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour request to join <a href=\"%hospital_link%\">"
+"%hospital_name%</a> is <b>Cancelled</b>.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:130
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t%user_name% is request you for appoinment in hospital "
+"%doctor_name% on date  %appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/article-status.php:27
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour article %article_title% has been received with pending "
+"status. <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/article-status.php:128
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour article %article_title% has been received with publish "
+"status. <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1276
+msgid ""
+"Hello %doctor_name%<br>\n"
+"\t\t\t\t\t\t\t%user_name% has given the feedback with the following details :"
+"<br>\n"
+"\t\t\t\t\t\t\tRecommend \t\t\t: %recommend% <br>\n"
+"\t\t\t\t\t\t\tWaiting time \t\t: %waiting_time% <br>\n"
+"\t\t\t\t\t\t\tRating\t\t\t\t: %rating% <br>\n"
+"\t\t\t\t\t\t\tDescription \t\t: %description% <br>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>\n"
+"\t\t\t\t\t\t\t%signature%,"
+msgstr ""
+
+#: helpers/templates/feedback.php:25
+msgid ""
+"Hello %doctor_name%<br>\n"
+"\t\t\t%user_name% has given the feedback with the following details :<br>\n"
+"Recommend \t\t\t: %recommend% <br>\n"
+"Waiting time \t\t: %waiting_time% <br>\n"
+"Rating\t\t\t\t: %rating% <br>\n"
+"Description \t\t: %description% <br>\n"
+"%signature%,<br/>\n"
+"\t\t\t%signature%,"
+msgstr ""
+
+#: helpers/templates/team-request.php:25
+msgid ""
+"Hello %hospital_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\t<a href=\"%doctor_link%\">%doctor_name%</a> has sent you a "
+"new request to join your hospital.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:188
+#: admin/theme-settings/settings/email-settings.php:1118
+msgid ""
+"Hello %user_name%<br/>\n"
+"\t\t\t\t\t\t\t%doctor_name% is approved to your appoinment on date  "
+"%appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1171
+msgid ""
+"Hello %user_name%<br/>\n"
+"\t\t\t\t\t\t\t%doctor_name% is approved your appoinment on date  "
+"%appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1224
+msgid ""
+"Hello %user_name%<br/>\n"
+"\t\t\t\t\t\t\t%doctor_name% is cancelled your appoinment on date  "
+"%appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:241
+msgid ""
+"Hello %user_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t%doctor_name% is cancelled to your appoinment with "
+"%doctor_name% on date  %appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:67
+msgid ""
+"Hello %user_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour appoinment booking request has been received with the "
+"following details<br/>\n"
+"\t\t\t\t\t\t\tAppointment date \t: %appointment_date% <br>\n"
+"\t\t\t\t\t\t\tAppointment time \t: %appointment_time% <br>\n"
+"\t\t\t\t\t\t\tDoctor name \t\t: %doctor_name% <br>\n"
+"\t\t\t\t\t\t\tHospital name \t\t: %hospital_name% <br>\n"
+"\t\t\t\t\t\t\tConsultation fee \t: %consultant_fee% <br>\n"
+"\t\t\t\t\t\t\tPrice \t\t\t\t: %price% <br>\n"
+"\t\t\t\t\t\t\tDescription \t\t: %description% <br>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1008
+msgid ""
+"Hello %user_name%<br/>\n"
+"\n"
+"\t\t\tYour appointment booking request has been scheduled with the following "
+"details<br/>\n"
+"\t\t\tAppointment date \t: %appointment_date% <br>\n"
+"\t\t\tAppointment time \t: %appointment_time% <br>\n"
+"\t\t\tDoctor name \t\t: %doctor_name% <br>\n"
+"\t\t\tHospital name \t\t: %hospital_name% <br>\n"
+"\t\t\tconsultation fee \t: %consultant_fee% <br>\n"
+"\t\t\tPrice \t\t\t\t: %price% <br>\n"
+"\t\t\tDescription \t\t: %description% <br>\n"
+"\t\t\t%signature%,<br/>,"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:766
+msgid ""
+"Hello admin,\n"
+"\t\t\t\t\t\tA new question has been posted has been posted<br>\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\tQuestion title: %question%<br>\n"
+"\t\t\t\t\t\tUsername: %name%<br>\n"
+"\t\t\t\t\t\tCategory: %category%<br>\n"
+"\t\t\t\t\t\tQuestion description: %description%<br>\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t%signature%"
+msgstr ""
+
+#: helpers/templates/forum.php:24
+msgid ""
+"Hello,\n"
+"\t\t\t\t\t\t\t\t\tA new question has been posted and needs an approval.\n"
+"\t\t\t\t\t\t\t\t\t%signature%"
+msgstr ""
+
+#: helpers/templates/app-link.php:25
+msgid ""
+"Hello,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour should be download the app from our site.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/invitations.php:25
+msgid ""
+"Hello,<br>\n"
+"\t\t\tYou have an invitation from %doctor_name% to register on the site. He "
+"wants to list yourself in your hospital onboard doctors.<br>\n"
+"\t\t\tCreate your profile and get listed on the site. He have leave a "
+"message for you<br>\n"
+"\t\t\t%invitation_content% <br>\n"
+"\t\t\t%signature%"
+msgstr ""
+
+#: helpers/templates/invitations.php:78
+msgid ""
+"Hello,<br>\n"
+"\t\t\tYou have an invitation from %hospital_name% to register on the site. "
+"They wants to list you as their onboard doctors<br>\n"
+"\t\t\tCreate your profile and get listed on the site. They have leave a "
+"message for you<br>\n"
+"\t\t\t%invitation_content% <br>\n"
+"\t\t\t%signature%\n"
+"\t\t\t"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:358
+msgid ""
+"Hi %name%,<br/>\n"
+"\t\t\tSomeone requested to reset the password of following account:<br/><br/>"
+"\n"
+"\t\t\tEmail Address: %email%<br>\n"
+"\t\t\tIf this was a mistake, just ignore this email and nothing will happen."
+"\n"
+"\n"
+"\t\t\tTo reset your password, click reset link below:<br/>\n"
+"\t\t\t<a href=\"%link%\">Reset</a>\n"
+"\n"
+"\t\t\t%signature%"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:104
+#: elementor/shortcodes/sc-home-slider-v2.php:141
+#: elementor/shortcodes/sc-private-question.php:82
+#: admin/theme-settings/settings/payment-settings.php:37
+msgid "Hide"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:212
+msgid "Hide chat buble"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:213
+msgid "Hide chat buble on doctor detail pages"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:48
+msgid "Hide checkout page"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:72
+msgid "Hide forum tab"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:73
+msgid "Hide forum tab from doctor detail page"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:114
+msgid "Hide it"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:61
+msgid "Hide location"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:89
+#: elementor/shortcodes/sc-home-slider-v2.php:80
+#: admin/theme-settings/settings/search-doctors.php:62
+msgid "Hide location dropdown."
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:88
+#: elementor/shortcodes/sc-home-slider-v2.php:79
+msgid "Hide locations"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:47
+#: admin/theme-settings/settings/booking-settings.php:58
+msgid "Hide prescription"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:48
+#: admin/theme-settings/settings/booking-settings.php:59
+msgid "Hide prescription module"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:224
+msgid "Hide services according to package limit on doctor detail page"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:25
+msgid "Home search bar"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:37
+msgid "Home Slider"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:37
+msgid "Home Slider V2"
+msgstr ""
+
+#: admin/post-types/hospital.php:74 admin/post-types/hospitalteam.php:114
+#: admin/post-types/hospitalteam.php:136
+msgid "Hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:73
+msgid "Hospital details"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:30
+msgid "Hospital Options"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:804
+msgid "Hospital request subject"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:805
+msgid "Hospital request to join team subject."
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:45
+msgid "Hospital Team"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:843
+msgid "Hospital team request has been accepted!"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:789
+#: admin/theme-settings/settings/email-settings.php:791
+msgid "Hospital Team Templates"
+msgstr ""
+
+#: admin/post-types/hospital.php:72 admin/post-types/hospital.php:73
+#: admin/theme-settings/settings/registration-settings.php:60
+#: admin/theme-settings/settings/search-doctors.php:44
+msgid "Hospitals"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:43 admin/post-types/hospitalteam.php:44
+#: admin/theme-settings/settings/directories-settings.php:167
+msgid "Hospitals Team"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:251
+msgid "Host?"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work.php:37
+msgid "How It works"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:37
+msgid "How It works V2"
+msgstr ""
+
+#: admin/settings/settings.php:148
+msgid "How to Install?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/amentotech"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/amentotech/portfolio"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:416
+msgid "HYBRID"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:372
+msgid "Icons for payouts in doctors dashboard "
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:331
+msgid "ID"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:103
+msgid "if search is Enable then add action url."
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:97
+msgid ""
+"If this switch is enabled then verification steps will appear, you can "
+"disable this options to disable verification steps in the booking process"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:51
+msgid ""
+"If you will hide Woocommerce checkout then system will remove the payout "
+"settings from the doctors dashboard"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:64
+#: admin/theme-settings/settings/footer-settings.php:88
+#: admin/theme-settings/settings/maintainance-settings.php:65
+#: admin/theme-settings/settings/registration-settings.php:21
+msgid "Image"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work.php:121
+msgid "Image Alignment"
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:143
+msgid "Image related sub title."
+msgstr ""
+
+#: elementor/shortcodes/sc-about-us.php:135
+msgid "Image related title."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:144
+msgid "Image Section Alignment"
+msgstr ""
+
+#: widgets/class-apps.php:104 widgets/class-query-online.php:112
+msgid "Image url"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:287
+msgid "Images Settings"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:242
+msgid "img description"
+msgstr ""
+
+#: admin/partials/functions.php:81
+msgid "Import Dummy"
+msgstr ""
+
+#: admin/partials/functions.php:79 admin/partials/functions.php:87
+msgid "Import dummy"
+msgstr ""
+
+#: admin/partials/functions.php:94
+msgid "Import From File"
+msgstr ""
+
+#: admin/partials/functions.php:39 admin/partials/functions.php:40
+msgid "Import User"
+msgstr ""
+
+#: admin/partials/functions.php:74 admin/partials/functions.php:77
+msgid "Import Users"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:178
+msgid "in"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:243
+msgid "Inbox"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:732
+msgid "info@example.com"
+msgstr ""
+
+#: hooks/hooks.php:960 hooks/hooks.php:1265
+msgid "Instagram"
+msgstr ""
+
+#: hooks/hooks.php:1336
+msgid "Instagram Link"
+msgstr ""
+
+#: widgets/class-contact-info.php:197 elementor/shortcodes/dc-team.php:143
+msgid "Instagram link"
+msgstr ""
+
+#: hooks/hooks.php:1335
+msgid "Instagram Link?"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:268
+msgid ""
+"Install the WP Guppy plugin first. <a href=\"https://wp-guppy.com/\" "
+"target=\"_blank\">Get WP Guppy plugin</a>\n"
+"\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:337
+#: admin/metaboxes/doctors-options.php:607
+msgid "Institute name"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1360
+msgid "Invitation Templates"
+msgstr ""
+
+#: helpers/templates/invitations.php:24 helpers/templates/invitations.php:77
+msgid "Invitation to signup"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1373
+#: admin/theme-settings/settings/email-settings.php:1419
+msgid "Invitation to signup "
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:359
+msgid "Invoices Image for Dashboard"
+msgstr ""
+
+#: admin/settings/settings.php:92 admin/settings/settings.php:107
+msgid ""
+"It will be used at post / Taxonomy detail page in URL as slug. Please use "
+"words without spaces."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:319
+msgid "Job Description"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:312
+#: admin/metaboxes/doctors-options.php:596
+msgid "Job title"
+msgstr ""
+
+#: shortcodes/class-authentication.php:39
+msgid "Join For a Good Start"
+msgstr ""
+
+#: hooks/hooks.php:570 elementor/shortcodes/sc-auth-register-button.php:128
+msgid "Join Now"
+msgstr ""
+
+#: hooks/hooks.php:618 elementor/shortcodes/sc-auth-login-button.php:158
+msgid "Keep me logged in"
+msgstr ""
+
+#: admin/post-types/prescription.php:257 admin/post-types/prescription.php:258
+#: admin/post-types/prescription.php:267
+msgid "Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:108
+msgid "Language"
+msgstr ""
+
+#: admin/post-types/doctors.php:107 admin/post-types/doctors.php:117
+msgid "Languages"
+msgstr ""
+
+#: hooks/hooks.php:1195 shortcodes/class-authentication.php:83
+msgid "Last Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:119
+#: admin/metaboxes/hospitals-options.php:82
+msgid "Last name"
+msgstr ""
+
+#: hooks/hooks.php:177
+msgid "Last Name is required."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-articals.php:37
+msgid "Latest Articles"
+msgstr ""
+
+#: hooks/hooks.php:1201 admin/metaboxes/doctors-options.php:215
+#: admin/metaboxes/hospitals-options.php:159
+#: admin/theme-settings/settings/directories-settings.php:475
+msgid "Latitude"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:77 admin/metaboxes/page-options.php:83
+#: admin/metaboxes/post-options.php:84
+msgid "Layout"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:48
+#: admin/theme-settings/settings/general-settings.php:59
+#: admin/theme-settings/settings/header-settings.php:34
+msgid "Leave it empty to hide"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:35
+msgid "Leave it empty to use default"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:84 admin/metaboxes/page-options.php:90
+#: admin/metaboxes/post-options.php:91
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:129
+msgid "Link Target"
+msgstr ""
+
+#: admin/post-types/doctors.php:34 admin/post-types/hospital.php:34
+msgid "Linked Profile"
+msgstr ""
+
+#: elementor/base.php:111 hooks/hooks.php:1250
+msgid "LinkedIn"
+msgstr ""
+
+#: hooks/hooks.php:963
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/class-contact-info.php:185 elementor/shortcodes/dc-team.php:137
+msgid "LinkedIn link"
+msgstr ""
+
+#: hooks/hooks.php:1304
+msgid "Linkedin Link"
+msgstr ""
+
+#: hooks/hooks.php:1303
+msgid "Linkedin Link?"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:187
+msgid "links"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:79
+msgid "Links in a row"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:95
+msgid "List"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:223
+msgid "List settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:91
+msgid "List/Grid settings are below."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:90
+#: elementor/shortcodes/wt-news-articles.php:232
+msgid "Listing type"
+msgstr ""
+
+#: widgets/class-query-online.php:64
+msgid "Live"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:69
+msgid "Loader duration?"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:39
+msgid "Loader image?"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:30
+#: admin/metaboxes/hospitals-options.php:21 admin/post-types/bookings.php:85
+#: admin/post-types/texonomies.php:53
+#: elementor/shortcodes/dc-by-specialities-location.php:112
+msgid "Location"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:211
+msgid "Location details"
+msgstr ""
+
+#: hooks/hooks.php:179
+msgid "Location field is required"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:109
+msgid "Location?"
+msgstr ""
+
+#: admin/post-types/texonomies.php:52 admin/post-types/texonomies.php:62
+msgid "Locations"
+msgstr ""
+
+#: hooks/hooks.php:566 hooks/hooks.php:604 hooks/hooks.php:620
+#: elementor/shortcodes/sc-auth-login-button.php:141
+#: elementor/shortcodes/sc-auth-login-button.php:144
+#: elementor/shortcodes/sc-auth-login-button.php:160
+msgid "Login"
+msgstr ""
+
+#: elementor/shortcodes/sc-auth-login-button.php:37
+msgid "Login button"
+msgstr ""
+
+#: hooks/hooks.php:643 shortcodes/class-authentication.php:164
+#: elementor/shortcodes/sc-auth-login-button.php:183
+msgid "Login Now"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:41
+msgid "Login/Register"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:70
+msgid "Login?"
+msgstr ""
+
+#: widgets/class-apps.php:106 widgets/class-query-online.php:114
+#: admin/post-types/texonomies.php:297 admin/post-types/texonomies.php:306
+#: admin/post-types/texonomies.php:361 admin/post-types/texonomies.php:371
+#: admin/post-types/texonomies.php:424 admin/post-types/texonomies.php:433
+#: admin/post-types/texonomies.php:479 admin/post-types/texonomies.php:489
+#: elementor/shortcodes/sc-download-apps.php:203
+#: admin/theme-settings/settings/header-settings.php:27
+#: admin/theme-settings/settings/maintainance-settings.php:34
+#: admin/theme-settings/settings/payment-settings.php:80
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:81
+msgid "Logo for appointment on call"
+msgstr ""
+
+#: widgets/class-contact-info.php:147
+msgid "Logo Link"
+msgstr ""
+
+#: widgets/class-contact-info.php:151
+msgid "Logo url"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:114
+msgid "Logos"
+msgstr ""
+
+#: hooks/hooks.php:1200 admin/metaboxes/doctors-options.php:226
+#: admin/metaboxes/hospitals-options.php:170
+#: admin/theme-settings/settings/directories-settings.php:482
+msgid "Longitude"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:35
+msgid ""
+"Lorem ipsum dolor amet consectetur adipisicing elit eiuim sete eiu tempor "
+"incididunt."
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:44
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/partials/functions.php:232
+msgid "MailChimp is updated"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:50
+msgid "MailChimp Key"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:66
+msgid "MailChimp List"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:150
+msgid "Main Image"
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:11
+msgid "Maintainance Settings"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:92
+msgid "Male"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:353
+msgid "Manage Service Image"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:462
+#: admin/metaboxes/hospitals-options.php:184
+msgid "Manage specialities & services"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:383
+msgid "Manage team image"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:438
+#: admin/theme-settings/settings/directories-settings.php:454
+msgid "Map Draggable"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:448
+msgid "Map Marker"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:396
+#: admin/theme-settings/settings/directories-settings.php:405
+msgid "Map Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:423
+msgid "Map Style"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:411
+msgid "Map Type"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:464
+msgid "Map Zoom"
+msgstr ""
+
+#: admin/post-types/prescription.php:205 admin/post-types/prescription.php:206
+#: admin/post-types/prescription.php:215
+msgid "Marital status"
+msgstr ""
+
+#: admin/settings/settings.php:133
+msgid "max_execution_time = 300"
+msgstr ""
+
+#: admin/settings/settings.php:134
+msgid "max_input_time = 300"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:133
+msgid ""
+"Maximum image upload size. Max 5MB, add in bytes. for example 5MB = 5242880"
+msgstr ""
+
+#: admin/post-types/prescription.php:179 admin/post-types/prescription.php:180
+#: admin/post-types/prescription.php:189
+msgid "Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:128
+msgid "Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:127 admin/post-types/prescription.php:137
+msgid "Medicine types"
+msgstr ""
+
+#: admin/post-types/prescription.php:153 admin/post-types/prescription.php:154
+#: admin/post-types/prescription.php:163
+msgid "Medicine Usage"
+msgstr ""
+
+#: hooks/hooks.php:1352
+msgid "Medium Link"
+msgstr ""
+
+#: hooks/hooks.php:1351
+msgid "Medium Link?"
+msgstr ""
+
+#: chat/class-chat-system.php:769
+msgid "Member Since"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:31
+msgid "Membership"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:267
+#: admin/metaboxes/doctors-options.php:493
+msgid "Membership Name"
+msgstr ""
+
+#: admin/settings/settings.php:135
+msgid "memory_limit = 300"
+msgstr ""
+
+#: chat/class-chat-system.php:738
+msgid "Message deleted."
+msgstr ""
+
+#: chat/class-chat-system.php:525
+msgid "Message field is required."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:317
+msgid "Message Image"
+msgstr ""
+
+#: chat/class-chat-system.php:596
+msgid "Message send!"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:334
+msgid "Method"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:110
+msgid "Middle"
+msgstr ""
+
+#: admin/settings/settings.php:131
+msgid "Minimum PHP version should be 7.0 or PHP version > 7.0"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:68
+msgid "Multiple location(country) selection"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:332
+msgid "Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:75
+#: admin/metaboxes/doctors-options.php:470
+#: admin/metaboxes/hospitals-options.php:192
+msgid "Name base"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:111
+msgid "Names base for doctors"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:119
+msgid "Names base for regular users"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:221
+msgid "NE"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:90
+msgid "Need to verify, after registration by admin"
+msgstr ""
+
+#: admin/theme-settings/settings/article-settings.php:23
+msgid "Needs approval"
+msgstr ""
+
+#: admin/post-types/bookings.php:46
+msgid "New Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:110
+msgid "New Childhood illness Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:240
+msgid "New Disease Name"
+msgstr ""
+
+#: admin/post-types/doctors.php:79
+msgid "New Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:140
+msgid "New Doctor Location"
+msgstr ""
+
+#: admin/post-types/healthforum.php:43
+msgid "New Health Forum Post"
+msgstr ""
+
+#: admin/post-types/hospital.php:79
+msgid "New Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:50
+msgid "New Hospital Team"
+msgstr ""
+
+#: admin/post-types/prescription.php:266
+msgid "New Laboratory Tests Name"
+msgstr ""
+
+#: admin/post-types/doctors.php:116
+msgid "New Language Name"
+msgstr ""
+
+#: admin/post-types/texonomies.php:61
+msgid "New Location Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:214
+msgid "New Marital status Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:188
+msgid "New Medicine Duration Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:136
+msgid "New Medicine type Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:162
+msgid "New Medicine Usage Name"
+msgstr ""
+
+#: admin/post-types/regular_users.php:43
+msgid "New Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:48
+msgid "New Prescription"
+msgstr ""
+
+#: helpers/templates/forum.php:23
+msgid "New question posted"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:597
+msgid "New registration"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:803
+msgid "New request for team has been received"
+msgstr ""
+
+#: admin/post-types/reviews.php:47
+msgid "New Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:176
+msgid "New Services Name"
+msgstr ""
+
+#: admin/post-types/texonomies.php:123
+msgid "New Sidebars Name"
+msgstr ""
+
+#: admin/post-types/texonomies.php:93
+msgid "New Specialities Name"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:133
+msgid "New Tab"
+msgstr ""
+
+#: helpers/templates/email-authe.php:243
+msgid "New user registration"
+msgstr ""
+
+#: admin/post-types/prescription.php:84
+msgid "New Vital Sign Name"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:103
+msgid "News By"
+msgstr ""
+
+#: widgets/class-news-letters.php:30
+msgid "News Letters"
+msgstr ""
+
+#. Base ID
+#: widgets/class-news-letters.php:27
+msgid "News Letters | Doctreat"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:37
+msgid "News/Blogs"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:222
+msgid "Next"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:92
+#: elementor/shortcodes/sc-auth-login-button.php:92
+#: elementor/shortcodes/sc-auth-register-button.php:92
+#: elementor/shortcodes/sc-custom-links.php:97
+#: elementor/shortcodes/sc-featured-doctros.php:143
+#: elementor/shortcodes/sc-home-slider-v2.php:83
+#: elementor/shortcodes/sc-home-slider.php:82
+#: elementor/shortcodes/wt-healthforum.php:157
+#: elementor/shortcodes/wt-news-articles.php:122
+#: admin/theme-settings/settings/booking-settings.php:29
+#: admin/theme-settings/settings/booking-settings.php:40
+#: admin/theme-settings/settings/booking-settings.php:51
+#: admin/theme-settings/settings/booking-settings.php:62
+#: admin/theme-settings/settings/directories-settings.php:64
+#: admin/theme-settings/settings/directories-settings.php:75
+#: admin/theme-settings/settings/directories-settings.php:86
+#: admin/theme-settings/settings/directories-settings.php:97
+#: admin/theme-settings/settings/directories-settings.php:205
+#: admin/theme-settings/settings/directories-settings.php:216
+#: admin/theme-settings/settings/directories-settings.php:227
+#: admin/theme-settings/settings/directories-settings.php:441
+#: admin/theme-settings/settings/directories-settings.php:457
+#: admin/theme-settings/settings/email-settings.php:488
+#: admin/theme-settings/settings/health-forum.php:66
+#: admin/theme-settings/settings/health-forum.php:76
+#: admin/theme-settings/settings/registration-settings.php:118
+#: admin/theme-settings/settings/search-doctors.php:33
+#: admin/theme-settings/settings/search-doctors.php:64
+#: admin/theme-settings/settings/search-doctors.php:76
+#: admin/theme-settings/settings/social-settings.php:25
+msgid "No"
+msgstr ""
+
+#: admin/post-types/bookings.php:50
+msgid "No Booking found"
+msgstr ""
+
+#: admin/post-types/bookings.php:51
+msgid "No Booking found in trash"
+msgstr ""
+
+#: admin/post-types/doctors.php:83
+msgid "No Doctor found"
+msgstr ""
+
+#: admin/post-types/doctors.php:84
+msgid "No Doctor found in trash"
+msgstr ""
+
+#: admin/post-types/doctors.php:144
+msgid "No Doctor found Location"
+msgstr ""
+
+#: admin/post-types/doctors.php:145
+msgid "No Doctor Location found in trash"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:116
+msgid "No Earnings avaliable."
+msgstr ""
+
+#: admin/post-types/healthforum.php:47
+msgid "No Health Forum Post found"
+msgstr ""
+
+#: admin/post-types/healthforum.php:48
+msgid "No Health Forum Post found in trash"
+msgstr ""
+
+#: admin/post-types/hospital.php:83
+msgid "No Hospital found"
+msgstr ""
+
+#: admin/post-types/hospital.php:84
+msgid "No Hospital found in trash"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:54
+msgid "No Hospital Team found"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:55
+msgid "No Hospital Team found in trash"
+msgstr ""
+
+#: chat/class-chat-system.php:414 chat/class-chat-system.php:620
+#: chat/class-chat-system.php:706
+msgid "No Kiddies Please"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:88
+msgid "No list selected yet! please contact administrator"
+msgstr ""
+
+#: chat/class-chat-system.php:332
+msgid "No Message Selected"
+msgstr ""
+
+#: chat/class-chat-system.php:334
+msgid "No message selected to display"
+msgstr ""
+
+#: chat/class-chat-system.php:466
+msgid "No more messages..."
+msgstr ""
+
+#: widgets/class-query-online.php:133
+msgid "No of consultations"
+msgstr ""
+
+#: admin/post-types/regular_users.php:47
+msgid "No Patient found"
+msgstr ""
+
+#: admin/post-types/regular_users.php:48
+msgid "No Patient found in trash"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:118
+msgid "No Payouts avaliable."
+msgstr ""
+
+#: admin/post-types/prescription.php:52
+msgid "No Prescription found"
+msgstr ""
+
+#: admin/post-types/prescription.php:53
+msgid "No Prescription found in trash"
+msgstr ""
+
+#: admin/post-types/reviews.php:51
+msgid "No Review found"
+msgstr ""
+
+#: admin/post-types/reviews.php:52
+msgid "No Review found in trash"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:17 admin/metaboxes/forum-options.php:83
+#: admin/metaboxes/page-options.php:19 admin/metaboxes/page-options.php:89
+#: admin/metaboxes/post-options.php:19 admin/metaboxes/post-options.php:90
+msgid "No Sidebar"
+msgstr ""
+
+#: widgets/class-links.php:174 widgets/class-links.php:178
+#: widgets/class-tweets-widget.php:173 widgets/class-tweets-widget.php:177
+msgid "No Tweets Found"
+msgstr ""
+
+#: hooks/hooks.php:122
+msgid "No user exists"
+msgstr ""
+
+#: admin/settings/settings.php:139
+msgid "Node.js for real-time chat"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:426
+msgid "NONE"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:112 admin/metaboxes/page-options.php:129
+#: admin/metaboxes/post-options.php:119
+#: admin/theme-settings/settings/titlebar-settings.php:23
+msgid "None, hide it"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:87
+msgid ""
+"Note: If you select \"Need to verify, after registration\" then user will "
+"not be shown in search result until user will be verified by site owner. If "
+"you select \"Verify by email\" then users will get an email for verification."
+" After clicking link user will be verified and available at the website."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-articals.php:120
+msgid "Number of latests posts"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:165
+#: elementor/shortcodes/wt-news-articles.php:185
+msgid "Number of posts"
+msgstr ""
+
+#: widgets/class-recent-posts.php:116
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/class-links.php:210 widgets/class-tweets-widget.php:210
+msgid "Number of Tweets:"
+msgstr ""
+
+#: hooks/hooks.php:1408
+msgid "Odnoklassniki Link"
+msgstr ""
+
+#: hooks/hooks.php:1407
+msgid "Odnoklassniki Link?"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:26
+msgid "Offline"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:25
+msgid "Online"
+msgstr ""
+
+#: elementor/shortcodes/sc-online-help.php:37
+msgid "Online Help"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:29
+msgid "Only hospitals"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:92
+msgid "Opacity"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:185
+#: elementor/shortcodes/wt-healthforum.php:119
+#: elementor/shortcodes/wt-news-articles.php:153
+msgid "Order"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:138
+#: elementor/shortcodes/wt-news-articles.php:172
+msgid "Order by author"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:141
+#: elementor/shortcodes/wt-news-articles.php:175
+msgid "Order by date"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:143
+#: elementor/shortcodes/wt-news-articles.php:177
+msgid "Order by number of comments"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:137
+#: elementor/shortcodes/wt-news-articles.php:171
+msgid "Order by post id"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:140
+#: elementor/shortcodes/wt-news-articles.php:174
+msgid "Order by post name"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:139
+#: elementor/shortcodes/wt-news-articles.php:173
+msgid "Order by title"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:94
+#: admin/metaboxes/classes/class-form-attributes.php:329
+msgid "Others"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:341
+msgid "Package Expiry Image"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:26
+msgid "Page Options"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:109
+msgid "Page Title"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:37 admin/metaboxes/forum-options.php:103
+#: admin/metaboxes/options.php:17 admin/metaboxes/page-options.php:41
+#: admin/metaboxes/page-options.php:120 admin/metaboxes/post-options.php:42
+#: admin/metaboxes/post-options.php:110
+msgid "Page Title Bar"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:152
+#: elementor/shortcodes/wt-news-articles.php:117
+msgid "Pagination option"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:50
+msgid "Paid Listing"
+msgstr ""
+
+#: admin/post-types/bookings.php:52
+msgid "Parent Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:105
+msgid "Parent Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:106
+msgid "Parent Childhood illness:"
+msgstr ""
+
+#: admin/post-types/prescription.php:235
+msgid "Parent Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:236
+msgid "Parent Disease:"
+msgstr ""
+
+#: admin/post-types/doctors.php:85
+msgid "Parent Doctors"
+msgstr ""
+
+#: admin/post-types/doctors.php:146
+msgid "Parent Doctors Location"
+msgstr ""
+
+#: admin/post-types/healthforum.php:49
+msgid "Parent Health Forum Post"
+msgstr ""
+
+#: admin/post-types/hospital.php:85
+msgid "Parent Hospitals"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:56
+msgid "Parent Hospitals Team"
+msgstr ""
+
+#: admin/post-types/prescription.php:261
+msgid "Parent Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/prescription.php:262
+msgid "Parent Laboratory Tests:"
+msgstr ""
+
+#: admin/post-types/doctors.php:111
+msgid "Parent Language"
+msgstr ""
+
+#: admin/post-types/doctors.php:112
+msgid "Parent Language:"
+msgstr ""
+
+#: admin/post-types/texonomies.php:56
+msgid "Parent Location"
+msgstr ""
+
+#: admin/post-types/texonomies.php:57
+msgid "Parent Location:"
+msgstr ""
+
+#: admin/post-types/prescription.php:209
+msgid "Parent Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:210
+msgid "Parent Marital status:"
+msgstr ""
+
+#: admin/post-types/prescription.php:183
+msgid "Parent Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:184
+msgid "Parent Medicine Duration:"
+msgstr ""
+
+#: admin/post-types/prescription.php:131
+msgid "Parent Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:132
+msgid "Parent Medicine type:"
+msgstr ""
+
+#: admin/post-types/prescription.php:157
+msgid "Parent Medicine Usage"
+msgstr ""
+
+#: admin/post-types/prescription.php:158
+msgid "Parent Medicine Usage:"
+msgstr ""
+
+#: admin/post-types/regular_users.php:49
+msgid "Parent Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:54
+msgid "Parent Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:53
+msgid "Parent Reviews"
+msgstr ""
+
+#: admin/post-types/texonomies.php:171
+msgid "Parent Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:172
+msgid "Parent Services:"
+msgstr ""
+
+#: admin/post-types/texonomies.php:118
+msgid "Parent Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:119
+msgid "Parent Sidebars:"
+msgstr ""
+
+#: admin/post-types/texonomies.php:88
+msgid "Parent Specialities"
+msgstr ""
+
+#: admin/post-types/texonomies.php:89
+msgid "Parent Specialities:"
+msgstr ""
+
+#: admin/post-types/prescription.php:79
+msgid "Parent Vital Sign"
+msgstr ""
+
+#: admin/post-types/prescription.php:80
+msgid "Parent Vital Sign:"
+msgstr ""
+
+#: hooks/hooks.php:613 elementor/shortcodes/sc-auth-login-button.php:153
+msgid "Password"
+msgstr ""
+
+#: hooks/hooks.php:226
+msgid "Password does not match."
+msgstr ""
+
+#: hooks/hooks.php:181
+msgid "Password field is required"
+msgstr ""
+
+#: hooks/hooks.php:217
+msgid "Password length should be minimum 6"
+msgstr ""
+
+#: hooks/hooks.php:41
+msgid "Password should not be empty."
+msgstr ""
+
+#: shortcodes/class-authentication.php:109
+msgid "Password*"
+msgstr ""
+
+#: admin/theme-settings/settings/css-js-settings.php:21
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/theme-settings/settings/css-js-settings.php:31
+msgid "Paste your JS code here."
+msgstr ""
+
+#: admin/post-types/regular_users.php:36 admin/post-types/regular_users.php:37
+#: admin/post-types/regular_users.php:38
+#: admin/theme-settings/settings/registration-settings.php:61
+msgid "Patients"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:177
+msgid "Payment Method"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:13
+msgid "Payment Settings"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:22
+#: admin/partials/class-system-payout-listing.php:288
+msgid "Payout"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:289
+msgid "Payout history starting from"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:170
+msgid "Payout settings"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:125
+msgid "Payout Settings "
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:23
+#: admin/partials/class-system-payouts.php:35
+#: admin/partials/class-system-payouts.php:36
+#: admin/partials/class-system-payouts.php:56
+#: admin/partials/class-system-payouts.php:92
+msgid "Payouts"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:371
+msgid "Payouts Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:11
+msgid "Paypal"
+msgstr ""
+
+#: hooks/hooks.php:1203
+msgid "PayPal Email Address"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:29
+#: admin/metaboxes/hospitals-options.php:20
+msgid "Personal details"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:143
+#: admin/metaboxes/hospitals-options.php:90
+msgid "Personal mobile number"
+msgstr ""
+
+#: shortcodes/class-authentication.php:104
+msgid "Personal mobile number*"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:62
+msgid "Pharmacy(Vendor)"
+msgstr ""
+
+#: widgets/class-contact-info.php:167
+msgid "Phone"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:638
+#: admin/metaboxes/hospitals-options.php:297
+msgid "Phone number"
+msgstr ""
+
+#: hooks/hooks.php:180
+msgid "Phone number field is required."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:154
+#: admin/metaboxes/hospitals-options.php:124
+msgid "Phone Number\"s"
+msgstr ""
+
+#: hooks/hooks.php:1198
+msgid "Phone numbers"
+msgstr ""
+
+#: admin/settings/settings.php:132
+msgid "PHP Zip extension Should be Installed"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:51
+msgid "Pick a footer color for the theme (default: #3d4461)."
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:35
+msgid "Pick a Secondary Color for the theme (default: #ff5851)."
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:43
+msgid "Pick a theme color for the theme (default: #3d4461)."
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:27
+msgid "Pick a theme color for the theme (default: #3fabf3)."
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:15
+msgid "Pick a tooltip  Content Background color (default: #3fabf3)."
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:22
+msgid "Pick a tooltip  Content color  (default: #3fabf3)."
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:29
+msgid "Pick a tooltip  Title Background color(default: #3fabf3)."
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:36
+msgid "Pick a tooltip  Title color(default: #3fabf3)."
+msgstr ""
+
+#: hooks/hooks.php:961
+msgid "Pinterest"
+msgstr ""
+
+#: hooks/hooks.php:1320
+msgid "Pinterest Link"
+msgstr ""
+
+#: hooks/hooks.php:1319
+msgid "Pinterest Link?"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:47
+msgid "Pinterest Share"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:50
+msgid "Pinterest Sharing on/off"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:740
+msgid "Please add a subject for the new question email"
+msgstr ""
+
+#: hooks/hooks.php:209
+msgid "Please add a valid email address."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:586
+msgid ""
+"Please add admin email address, leave it empty to get email address from "
+"WordPress Settings."
+msgstr ""
+
+#: hooks/hooks.php:278
+msgid "Please add all the required fields"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:389
+msgid "Please add email address to receive notice."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:599
+#: admin/theme-settings/settings/email-settings.php:639
+#: admin/theme-settings/settings/email-settings.php:693
+#: admin/theme-settings/settings/email-settings.php:1314
+#: admin/theme-settings/settings/email-settings.php:1477
+#: admin/theme-settings/settings/email-settings.php:1516
+msgid "Please add new user subject."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:118
+#: admin/theme-settings/settings/email-settings.php:158
+#: admin/theme-settings/settings/email-settings.php:201
+#: admin/theme-settings/settings/email-settings.php:245
+#: admin/theme-settings/settings/email-settings.php:289
+#: admin/theme-settings/settings/email-settings.php:334
+#: admin/theme-settings/settings/email-settings.php:396
+#: admin/theme-settings/settings/email-settings.php:440
+#: admin/theme-settings/settings/email-settings.php:497
+#: admin/theme-settings/settings/email-settings.php:540
+#: admin/theme-settings/settings/email-settings.php:845
+#: admin/theme-settings/settings/email-settings.php:885
+#: admin/theme-settings/settings/email-settings.php:935
+#: admin/theme-settings/settings/email-settings.php:976
+#: admin/theme-settings/settings/email-settings.php:1040
+#: admin/theme-settings/settings/email-settings.php:1090
+#: admin/theme-settings/settings/email-settings.php:1143
+#: admin/theme-settings/settings/email-settings.php:1196
+#: admin/theme-settings/settings/email-settings.php:1249
+msgid "Please add subject for email"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:252
+msgid ""
+"Please add the host, default would be http://localhost <br>1. Host could be "
+"either http://localhost <br>2. OR could be http://yourdomain.com"
+msgstr ""
+
+#: hooks/hooks.php:249
+msgid "Please add valid email address"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:107
+msgid "Please select Ads Section."
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:27
+msgid "Please select loader type."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:38
+msgid ""
+"Please select only one of the following options.<br/>\n"
+"1) In \"Paid Listings\" doctors have to buy a package to get online "
+"appointments<br/>\n"
+"2) In \"Free listings\" All the features are free to use"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:23
+msgid ""
+"Please select payment type. In case of offline payment settings, either you "
+"can enable payout settings or disable it. WooCommrece offline payment "
+"gateway will work with both type of payments."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:171
+msgid ""
+"Please select payouts methods, at-least one payout method is required. "
+"Default would be PayPal"
+msgstr ""
+
+#: widgets/class-recent-posts.php:108
+msgid "Populor Articles"
+msgstr ""
+
+#. Base ID
+#: widgets/class-recent-posts.php:30
+msgid "Populor posts | Doctreat"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:259
+msgid "Port?"
+msgstr ""
+
+#: hooks/hooks.php:1018
+msgid "Post has been liked"
+msgstr ""
+
+#: hooks/hooks.php:996
+msgid "Post id is required"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:27
+msgid "Post Options"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:133
+#: elementor/shortcodes/wt-news-articles.php:167
+msgid "Post Order"
+msgstr ""
+
+#: hooks/hooks.php:1210
+msgid "Post title"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:42
+msgid "Post Your Question"
+msgstr ""
+
+#: admin/settings/settings.php:136
+msgid "post_max_size = 100M"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-articals.php:107
+msgid "Posts ID's"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:205
+msgid "Posts/Items settings"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:217
+msgid "PR"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:19
+msgid "Preloader on/off"
+msgstr ""
+
+#: admin/post-types/prescription.php:41 admin/post-types/prescription.php:42
+#: admin/post-types/prescription.php:43
+msgid "Prescription"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:218
+msgid "Previous"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:549
+#: admin/metaboxes/hospitals-options.php:277
+#: admin/metaboxes/classes/class-form-attributes.php:594
+msgid "Price"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:37
+msgid "Private Question"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:178
+msgid "Processing Date"
+msgstr ""
+
+#: hooks/hooks.php:1440
+msgid "Profile Settings"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:287
+msgid "Providing Services"
+msgstr ""
+
+#: widgets/class-query-online.php:63
+msgid "Query online"
+msgstr ""
+
+#. Base ID
+#: widgets/class-query-online.php:27
+msgid "Query Online | Doctreat"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:765
+msgid "Question email content"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:725
+msgid "Question posted"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:739
+msgid "Question posted title"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:109
+msgid "Question section detail"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:80
+msgid "Question section Enable/Disbale"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:100
+msgid "Question section sub title"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:92
+msgid "Question section title"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:142
+#: elementor/shortcodes/wt-news-articles.php:176
+msgid "Random order"
+msgstr ""
+
+#: admin/post-types/reviews.php:106
+msgid "Rating:"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:244
+msgid "Real Time Chat"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:240
+msgid "Real Time Chat?"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:74
+msgid ""
+"Redirect the visitors to see user detail page if user account is not "
+"verified or deactive profiles"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:125
+msgid "Redirect URL for doctor"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:126
+msgid "Redirect URL for doctor after login and registration."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:133
+msgid "Redirect URL for hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:134
+msgid "Redirect URL for hospital after login and registration."
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:73
+msgid "Redirect users detail page"
+msgstr ""
+
+#: helpers/EmailHelper.php:129
+msgid "Regards"
+msgstr ""
+
+#: elementor/shortcodes/sc-auth-register-button.php:37
+msgid "Register button"
+msgstr ""
+
+#: elementor/shortcodes/sc-authentication.php:83
+msgid "Register Form"
+msgstr ""
+
+#: shortcodes/class-authentication.php:60
+#: admin/metaboxes/doctors-options.php:34
+#: admin/metaboxes/hospitals-options.php:23
+msgid "Registration"
+msgstr ""
+
+#: hooks/hooks.php:1202 admin/metaboxes/doctors-options.php:432
+#: admin/metaboxes/hospitals-options.php:207
+msgid "Registration number"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:11
+msgid "Registration Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:103
+msgid "Registration templates"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:26
+msgid "Regular Font"
+msgstr ""
+
+#: admin/post-types/texonomies.php:307 admin/post-types/texonomies.php:372
+#: admin/post-types/texonomies.php:434 admin/post-types/texonomies.php:490
+#: admin/metaboxes/classes/class-form-attributes.php:760
+msgid "Remove"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:387
+msgid "Remove account"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:388
+msgid "Remove account email"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:819
+msgid "Remove all"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:57
+#: admin/theme-settings/settings/health-forum.php:59
+msgid "Remove doctor invitation"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:61
+#: admin/theme-settings/settings/health-forum.php:63
+msgid "Remove doctor invitation options"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:79
+msgid "Remove hospital invitation"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:83
+msgid "Remove hospital invitation options"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:114
+msgid "Remove location field"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:115
+msgid "Remove location field from registration form"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:95
+msgid "Remove user verification"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:91
+msgid "Remove verification all over the site"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:883
+msgid "Request has been cancelled to join hospital"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:797
+msgid "Request to hospital to join as a team"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:432
+msgid "Resend verification email"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:332
+msgid "Reset password"
+msgstr ""
+
+#: shortcodes/class-authentication.php:112
+msgid "Retype Password*"
+msgstr ""
+
+#: admin/post-types/reviews.php:156
+msgid "Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:116
+msgid "Review By"
+msgstr ""
+
+#: admin/post-types/reviews.php:158
+msgid "Review by"
+msgstr ""
+
+#: admin/post-types/reviews.php:83
+msgid "Review Info"
+msgstr ""
+
+#: admin/post-types/reviews.php:128
+msgid "Review To"
+msgstr ""
+
+#: admin/post-types/reviews.php:159
+msgid "Review to"
+msgstr ""
+
+#: admin/post-types/reviews.php:40 admin/post-types/reviews.php:41
+#: admin/post-types/reviews.php:42
+msgid "Reviews"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:110 admin/metaboxes/page-options.php:127
+#: admin/metaboxes/post-options.php:117
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/settings/settings.php:84
+msgid "Rewrite URL"
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:67
+#: elementor/shortcodes/dc-how-it-work.php:67
+msgid "Right"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:85 admin/metaboxes/page-options.php:91
+#: admin/metaboxes/post-options.php:92
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:414
+msgid "ROADMAP"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:415
+msgid "SATELLITE"
+msgstr ""
+
+#: admin/settings/settings.php:118
+msgid "Save Changes"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:329
+msgid "Saved Image"
+msgstr ""
+
+#: hooks/hooks.php:1450
+msgid "Saved Items"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:253
+msgid "Search"
+msgstr ""
+
+#: admin/post-types/bookings.php:49
+msgid "Search Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:103
+msgid "Search Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:233
+msgid "Search Diseases"
+msgstr ""
+
+#: admin/post-types/doctors.php:82
+msgid "Search Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:143
+msgid "Search Doctor Location"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:11
+msgid "Search Doctors Settings"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:267
+msgid "Search Form"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:37
+#: admin/theme-settings/settings/search-doctors.php:20
+msgid "Search form"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:53
+msgid "Search Gender"
+msgstr ""
+
+#: admin/theme-settings/settings/health-forum.php:54
+msgid "Search Header form Enable/Disable"
+msgstr ""
+
+#: admin/post-types/healthforum.php:46
+msgid "Search Health Forum Posts"
+msgstr ""
+
+#: admin/post-types/hospital.php:82
+msgid "Search Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:53
+msgid "Search Hospital Team"
+msgstr ""
+
+#: admin/post-types/prescription.php:259
+msgid "Search Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:109
+msgid "Search Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:54
+msgid "Search Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:207
+msgid "Search Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:181
+msgid "Search Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:129
+msgid "Search Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:155
+msgid "Search Medicine Usage"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:211
+#: elementor/shortcodes/sc-home-slider-v2.php:257
+msgid "Search now"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:102
+msgid "Search Page Action url"
+msgstr ""
+
+#: admin/post-types/regular_users.php:46
+msgid "Search Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:51
+msgid "Search Prescription"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:85
+msgid "Search result page"
+msgstr ""
+
+#: admin/post-types/reviews.php:50
+msgid "Search Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:169
+msgid "Search services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:116
+msgid "Search Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:86
+msgid "Search Specialities"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:39
+msgid "Search type"
+msgstr ""
+
+#: chat/class-chat-system.php:282
+msgid "Search Users"
+msgstr ""
+
+#: admin/post-types/prescription.php:77
+msgid "Search Vital Sign"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:136
+msgid "Section color"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:114
+msgid "Section Image"
+msgstr ""
+
+#: chat/class-chat-system.php:471 chat/class-chat-system.php:513
+#: chat/class-chat-system.php:683 chat/class-chat-system.php:724
+msgid "Security check failed!"
+msgstr ""
+
+#: hooks/hooks.php:92
+msgid ""
+"Security check failed, this could be because of your browser cache. Please "
+"clear the cache and check it again"
+msgstr ""
+
+#: chat/class-chat-system.php:499 hooks/hooks.php:169 hooks/hooks.php:990
+#: admin/partials/functions.php:141 admin/partials/functions.php:185
+#: admin/partials/functions.php:217 admin/partials/functions.php:259
+msgid ""
+"Security check failed, this could be because of your browser cache. Please "
+"clear the cache and check it againe"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:26 admin/metaboxes/page-options.php:28
+#: admin/metaboxes/post-options.php:28
+msgid "Select a slider"
+msgstr ""
+
+#: admin/post-types/prescription.php:313 admin/post-types/texonomies.php:220
+#: elementor/shortcodes/wt-healthforum.php:238
+msgid "Select a speciality"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:106
+msgid "Select Ads Section"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:141
+msgid "Select categories to display posts."
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-us-form.php:113
+msgid "Select Contact Form"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-us-form.php:114
+msgid "Select Contact Form to display."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:126
+msgid "Select dashboard page"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:40
+msgid "Select defult search type."
+msgstr ""
+
+#: admin/theme-settings/settings/article-settings.php:21
+msgid ""
+"Select either articles should be published or needs the admin approval "
+"before publish."
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:19
+msgid "Select Enable/Disable"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:20
+msgid "Select footer Layout you want to show."
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:45
+msgid "Select Header Layout you want to show."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:153
+msgid "Select interval for payouts."
+msgstr ""
+
+#: hooks/hooks.php:497
+msgid "Select List"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:113
+msgid "Select Location to display."
+msgstr ""
+
+#: elementor/shortcodes/dc-search-by-location.php:110
+msgid "Select location to display."
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:119
+msgid "Select logo"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:424
+msgid "Select Map Style."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:412
+msgid "Select Map Type."
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:465
+msgid "Select map zoom level"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:104
+msgid "Select news by category or item."
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:67
+msgid "Select one of the list for newsletters"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:153
+#: elementor/shortcodes/wt-news-articles.php:118
+msgid "Select pagination option."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:22
+msgid "Select payment type"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:120
+#: elementor/shortcodes/wt-news-articles.php:154
+msgid "Select posts Order."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:133 admin/metaboxes/page-options.php:176
+#: admin/metaboxes/post-options.php:166
+msgid "Select Revolution Slider."
+msgstr ""
+
+#: elementor/shortcodes/dc-how-it-work-v2.php:131
+#: elementor/shortcodes/dc-how-it-work-v2.php:145
+#: elementor/shortcodes/dc-how-it-work.php:122
+msgid "Select right or left."
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:87
+msgid "Select search result page."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:135
+msgid ""
+"Select Service commission in percentage ( % ), set it to 0 to make "
+"commission free website"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:80 admin/metaboxes/page-options.php:86
+#: admin/metaboxes/post-options.php:87
+msgid "Select sidebar layout to display sidebar on this page."
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:70
+msgid "Select site loader speed"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities.php:110
+msgid "Select specialities to display."
+msgstr ""
+
+#: admin/post-types/prescription.php:294 admin/post-types/texonomies.php:201
+msgid "Select speciality"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:104
+msgid "Select speciality to display doctors."
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:119
+msgid ""
+"Select speciality to display doctors. leave it empty to show from all "
+"categories"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:123
+msgid "Select specilities to display."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:107
+msgid "Select Term Page"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:26
+msgid "Select Type"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:140
+#: elementor/shortcodes/sc-contact-us-form.php:124
+msgid "Select Version"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:157
+msgid "Select your calendar date format."
+msgstr ""
+
+#: helpers/templates/app-link.php:24
+msgid "Send App link"
+msgstr ""
+
+#: helpers/templates/team-request.php:24
+msgid "Send request"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:35 admin/metaboxes/options.php:15
+#: admin/metaboxes/page-options.php:38 admin/metaboxes/post-options.php:38
+msgid "Seo"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:56 admin/metaboxes/page-options.php:61
+#: admin/metaboxes/post-options.php:62
+msgid "Seo Description"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:65 admin/metaboxes/page-options.php:70
+#: admin/metaboxes/post-options.php:71
+msgid "Seo Keywords"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:47 admin/metaboxes/page-options.php:52
+#: admin/metaboxes/post-options.php:53
+msgid "Seo Title"
+msgstr ""
+
+#: admin/post-types/texonomies.php:167 admin/post-types/texonomies.php:168
+#: admin/post-types/texonomies.php:177
+msgid "Services"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:223
+msgid "Services according to package"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:134
+msgid "Set admin commision"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:58
+msgid "Set loader height"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:47
+msgid "Set loader width"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:34
+#: admin/theme-settings/settings/header-settings.php:33
+msgid "Set logo width"
+msgstr ""
+
+#: admin/settings/settings.php:23 admin/settings/settings.php:75
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/functions.php:192
+msgid "Settings updated"
+msgstr ""
+
+#: hooks/hooks.php:854
+msgid "Share on Facebook"
+msgstr ""
+
+#: hooks/hooks.php:858
+msgid "Share on Google"
+msgstr ""
+
+#: hooks/hooks.php:859
+msgid "Share on Pinterest"
+msgstr ""
+
+#: hooks/hooks.php:855
+msgid "Share on Twitter"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:11
+msgid "Sharing Settings"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:127
+#: admin/metaboxes/hospitals-options.php:98
+msgid "Short description"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:103
+#: elementor/shortcodes/sc-home-slider-v2.php:140
+#: elementor/shortcodes/sc-private-question.php:81
+#: admin/theme-settings/settings/payment-settings.php:38
+msgid "Show"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:138
+#: elementor/shortcodes/sc-featured-doctros.php:293
+msgid "Show All"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:139
+msgid "Show all posts button"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:201
+msgid "Show contact info"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:202
+msgid "Show doctors and hospitals contact information on their details pages"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:35
+msgid "Show earning in doctors dashboard."
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:34
+msgid "Show earning?"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:71
+msgid ""
+"Show either hospital details on prescription or doctor details like logo, "
+"name etc"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:115
+#: admin/theme-settings/settings/titlebar-settings.php:22
+msgid "Show it"
+msgstr ""
+
+#: widgets/class-tweets-widget.php:24
+msgid "Show latest tweets."
+msgstr ""
+
+#: elementor/shortcodes/sc-auth-login-button.php:88
+#: elementor/shortcodes/sc-auth-register-button.php:88
+msgid "Show menu after login"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:131
+msgid "Show number of posts"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:130
+msgid "Show Posts"
+msgstr ""
+
+#: admin/theme-settings/settings/booking-settings.php:70
+msgid "Show prescription details"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:57
+msgid "Show Registration type ?"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:58
+msgid ""
+"Show registration type by role. You can either select all to enable all the "
+"types of registration or you can remove from available list. For example "
+"hide hospital registration from front-end. At-least one registration type "
+"would be required"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:29
+msgid "Show search bar on home page"
+msgstr ""
+
+#: widgets/class-links.php:24
+msgid "Show twittes."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:36 admin/metaboxes/forum-options.php:91
+#: admin/metaboxes/options.php:16 admin/metaboxes/page-options.php:40
+#: admin/metaboxes/page-options.php:97 admin/metaboxes/post-options.php:41
+#: admin/metaboxes/post-options.php:98
+msgid "Sidebar"
+msgstr ""
+
+#: admin/post-types/texonomies.php:114 admin/post-types/texonomies.php:115
+#: admin/post-types/texonomies.php:124
+msgid "Sidebars"
+msgstr ""
+
+#: shortcodes/class-authentication.php:155
+msgid "Signup Now"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:19
+msgid "Site colors"
+msgstr ""
+
+#: hooks/hooks.php:962
+msgid "Skype"
+msgstr ""
+
+#: hooks/hooks.php:1312
+msgid "Skype ID"
+msgstr ""
+
+#: hooks/hooks.php:1311
+msgid "Skype ID?"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:236
+msgid "Small"
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:82
+msgid "Social Icons for Footer. You can sort it out as you want."
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:81
+msgid "Social Media"
+msgstr ""
+
+#: admin/theme-settings/settings/social-settings.php:41
+msgid "Social Profiles"
+msgstr ""
+
+#: widgets/class-links.php:181 widgets/class-tweets-widget.php:180
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:68
+#: libraries/mailchimp/class-mailchimp.php:115
+msgid "Some error occur,please try again later."
+msgstr ""
+
+#: hooks/hooks.php:299 hooks/hooks.php:427
+msgid "Some error occurs, please try again later"
+msgstr ""
+
+#: chat/class-chat-system.php:519 chat/class-chat-system.php:716
+msgid "Something went wrong."
+msgstr ""
+
+#: widgets/class-links.php:54 widgets/class-tweets-widget.php:59
+msgid "Sorry! No tweets found"
+msgstr ""
+
+#: hooks/hooks.php:791
+msgid "Sorry! you are restricted to perform this action on demo site."
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:268
+msgid "Sort By:"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:267
+msgid "Spaces"
+msgstr ""
+
+#: admin/post-types/texonomies.php:84 admin/post-types/texonomies.php:85
+#: admin/post-types/texonomies.php:94
+#: elementor/shortcodes/dc-by-specialities.php:109
+msgid "Specialities"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:237
+msgid "specialities"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:35
+#: admin/metaboxes/hospitals-options.php:22
+msgid "Specialities & Services"
+msgstr ""
+
+#: elementor/shortcodes/sc-featured-doctros.php:118
+#: elementor/shortcodes/sc-top-rated.php:103
+msgid "Specialities?"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:94
+msgid "Speciality Image"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:297
+msgid "Specialties &amp; Services"
+msgstr ""
+
+#: elementor/shortcodes/dc-by-specialities-location.php:122
+msgid "specilities"
+msgstr ""
+
+#: shortcodes/class-authentication.php:117
+msgid "Start as :"
+msgstr ""
+
+#: hooks/hooks.php:1213
+msgid "Start chat"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:296
+#: admin/metaboxes/doctors-options.php:345
+#: admin/metaboxes/doctors-options.php:590
+#: admin/metaboxes/doctors-options.php:610
+#: admin/partials/class-system-payouts.php:64
+msgid "Start date"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:398
+msgid "Start Year"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:135
+msgid "Starting Price"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:189
+#: admin/partials/class-system-payout-listing.php:179
+#: admin/partials/class-system-payout-listing.php:336
+msgid "Status"
+msgstr ""
+
+#: shortcodes/class-authentication.php:123
+msgid "Store name"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:11
+msgid "Stylings"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:175
+msgid "Sub Description"
+msgstr ""
+
+#: hooks/hooks.php:1193
+msgid "Sub Heading"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:102
+#: admin/metaboxes/hospitals-options.php:66
+msgid "Sub heading"
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:97
+#: elementor/shortcodes/sc-home-slider-v2.php:167
+#: elementor/shortcodes/wt-healthforum-banner.php:88
+#: admin/theme-settings/settings/maintainance-settings.php:50
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/class-apps.php:113 widgets/class-query-online.php:121
+#: elementor/shortcodes/dc-clients.php:88
+#: elementor/shortcodes/dc-easy-steps.php:88
+#: elementor/shortcodes/dc-feedback.php:88
+#: elementor/shortcodes/dc-search-form.php:132
+#: elementor/shortcodes/dc-team.php:88
+#: elementor/shortcodes/sc-featured-doctros.php:90
+#: elementor/shortcodes/sc-latest-articals.php:89
+#: elementor/shortcodes/sc-working-process.php:89
+#: admin/theme-settings/settings/health-forum.php:26
+msgid "Sub title"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:117
+#: admin/theme-settings/settings/email-settings.php:157
+#: admin/theme-settings/settings/email-settings.php:200
+#: admin/theme-settings/settings/email-settings.php:244
+#: admin/theme-settings/settings/email-settings.php:288
+#: admin/theme-settings/settings/email-settings.php:333
+#: admin/theme-settings/settings/email-settings.php:395
+#: admin/theme-settings/settings/email-settings.php:439
+#: admin/theme-settings/settings/email-settings.php:496
+#: admin/theme-settings/settings/email-settings.php:539
+#: admin/theme-settings/settings/email-settings.php:844
+#: admin/theme-settings/settings/email-settings.php:884
+#: admin/theme-settings/settings/email-settings.php:934
+#: admin/theme-settings/settings/email-settings.php:975
+#: admin/theme-settings/settings/email-settings.php:1039
+#: admin/theme-settings/settings/email-settings.php:1089
+#: admin/theme-settings/settings/email-settings.php:1142
+#: admin/theme-settings/settings/email-settings.php:1195
+#: admin/theme-settings/settings/email-settings.php:1248
+#: admin/theme-settings/settings/email-settings.php:1374
+#: admin/theme-settings/settings/email-settings.php:1420
+msgid "Subject"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:109
+msgid "Subscribe Successfully"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:668
+#: admin/theme-settings/settings/email-settings.php:1343
+msgid "subscription content"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1313
+msgid "subscription subject"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1298
+#: admin/theme-settings/settings/email-settings.php:1300
+msgid "Subscription Templates"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:64
+msgid "Success Description?"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:57
+msgid "Success Title?"
+msgstr ""
+
+#: hooks/hooks.php:69
+msgid "Successfully Logged in"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:37
+msgid "System Access type?"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:138
+msgid "Team ID#"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:89
+msgid "Team Info"
+msgstr ""
+
+#: elementor/shortcodes/dc-team.php:37
+msgid "Teams"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:100
+msgid "Term text"
+msgstr ""
+
+#: shortcodes/class-authentication.php:148
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:417
+msgid "TERRAIN"
+msgstr ""
+
+#: helpers/templates/package-subscription.php:22
+#: admin/theme-settings/settings/email-settings.php:637
+#: admin/theme-settings/settings/email-settings.php:1312
+msgid "Thank you for purchasing the package!"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:156
+#: admin/theme-settings/settings/email-settings.php:199
+#: admin/theme-settings/settings/email-settings.php:243
+#: admin/theme-settings/settings/email-settings.php:287
+msgid "Thank you for registeration!"
+msgstr ""
+
+#: helpers/templates/email-authe.php:65 helpers/templates/email-authe.php:110
+#: helpers/templates/email-authe.php:155 helpers/templates/email-authe.php:201
+msgid "Thank you for registering"
+msgstr ""
+
+#: hooks/hooks.php:458
+msgid "Thank you so much for the registration."
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:50
+msgid "Theme Footer Color"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:26
+msgid "Theme Primary Color"
+msgstr ""
+
+#: admin/settings/settings.php:127
+msgid "Theme Requirements"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:34
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: admin/theme-settings/init.php:22 admin/theme-settings/init.php:23
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/styling-settings.php:42
+msgid "Theme Tertiary Color"
+msgstr ""
+
+#: hooks/hooks.php:262
+msgid "This email already registered"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:299
+msgid "This is a computer generated payout slip"
+msgstr ""
+
+#: admin/post-types/bookings.php:56
+msgid "This is where you can add new Booking"
+msgstr ""
+
+#: admin/post-types/hospital.php:90 admin/post-types/regular_users.php:53
+msgid "This is where you can add new company"
+msgstr ""
+
+#: admin/post-types/doctors.php:90
+msgid "This is where you can add new doctors"
+msgstr ""
+
+#: admin/post-types/doctors.php:151
+msgid "This is where you can add new doctors locations"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:61
+msgid "This is where you can add new Hospitals Team"
+msgstr ""
+
+#: admin/post-types/healthforum.php:53
+msgid "This is where you can add new post related Health Forum"
+msgstr ""
+
+#: admin/post-types/reviews.php:57
+msgid "This is where you can add new Reviews "
+msgstr ""
+
+#: admin/post-types/prescription.php:59
+msgid "This is where you can add prescription "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom post types and other functionality "
+"for Doctreat Theme"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:34
+msgid ""
+"This will be used in the tweet for the via parameter. The site name will be "
+"used if no twitter username is provided. Do not include the @"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:257
+msgid "Three Columns"
+msgstr ""
+
+#: widgets/class-apps-downloads.php:86 widgets/class-apps.php:109
+#: widgets/class-news-letters.php:78 widgets/class-query-online.php:117
+#: admin/metaboxes/doctors-options.php:390
+#: admin/metaboxes/doctors-options.php:627
+#: elementor/shortcodes/dc-clients.php:79
+#: elementor/shortcodes/dc-easy-steps.php:79
+#: elementor/shortcodes/dc-feedback.php:79
+#: elementor/shortcodes/dc-search-form.php:123
+#: elementor/shortcodes/dc-team.php:79
+#: elementor/shortcodes/sc-download-apps.php:88
+#: elementor/shortcodes/sc-featured-doctros.php:81
+#: elementor/shortcodes/sc-home-slider-v2.php:158
+#: elementor/shortcodes/sc-latest-articals.php:80
+#: elementor/shortcodes/sc-working-process.php:80
+#: elementor/shortcodes/wt-healthforum-banner.php:79
+#: elementor/shortcodes/wt-healthforum.php:79
+#: elementor/shortcodes/wt-healthforum.php:110
+#: elementor/shortcodes/wt-news-articles.php:81
+#: admin/theme-settings/settings/health-forum.php:19
+#: admin/theme-settings/settings/maintainance-settings.php:42
+#: admin/theme-settings/settings/payment-settings.php:88
+msgid "Title"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:27
+msgid "title"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:28
+msgid "Title Background color"
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:30
+msgid "Title bar background color"
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:37
+msgid "Title bar text color"
+msgstr ""
+
+#: elementor/shortcodes/sc-auth-login-button.php:79
+#: elementor/shortcodes/sc-auth-register-button.php:79
+msgid "Title Color"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:35
+msgid "Title color"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:89
+msgid "Title which will show on appointment on call form."
+msgstr ""
+
+#: widgets/class-links.php:198 widgets/class-recent-posts.php:112
+#: widgets/class-tweets-widget.php:198
+msgid "Title:"
+msgstr ""
+
+#: admin/theme-settings/settings/titlebar-settings.php:11
+msgid "Titlebar Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:50
+msgid "Tooltip field text"
+msgstr ""
+
+#: admin/theme-settings/settings/tooltip-settings.php:64
+msgid "Tooltip Settings"
+msgstr ""
+
+#: admin/theme-settings/settings/search-doctors.php:109
+msgid "Top"
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:57
+msgid "Top bar"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:37
+msgid "Top rated"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:365
+msgid "Total Published Articles Image for Dashboard"
+msgstr ""
+
+#: hooks/hooks.php:1360
+msgid "Tripadvisor Link"
+msgstr ""
+
+#: hooks/hooks.php:1359
+msgid "Tripadvisor Link?"
+msgstr ""
+
+#: hooks/hooks.php:959
+msgid "Tumbler"
+msgstr ""
+
+#: hooks/hooks.php:1328
+msgid "Tumblr Link"
+msgstr ""
+
+#: hooks/hooks.php:1327
+msgid "Tumblr Link?"
+msgstr ""
+
+#: widgets/class-links.php:192 widgets/class-tweets-widget.php:160
+#: widgets/class-tweets-widget.php:192
+msgid "Tweets"
+msgstr ""
+
+#: elementor/base.php:106 hooks/hooks.php:956 hooks/hooks.php:1245
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings/settings/api-settings.php:73
+msgid "Twitter API Key"
+msgstr ""
+
+#: hooks/hooks.php:1296
+msgid "Twitter Link"
+msgstr ""
+
+#: widgets/class-contact-info.php:177 elementor/shortcodes/dc-team.php:131
+msgid "Twitter link"
+msgstr ""
+
+#: hooks/hooks.php:1295
+msgid "Twitter Link?"
+msgstr ""
+
+#. Base ID
+#: widgets/class-links.php:22 widgets/class-tweets-widget.php:22
+msgid "Twitter Live Feed | Doctreat"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:25
+msgid "Twitter Share"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:28
+msgid "Twitter Sharing on/off"
+msgstr ""
+
+#: admin/theme-settings/settings/sharing-settings.php:33
+msgid "Twitter username"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:232
+msgid "Type Your Query"
+msgstr ""
+
+#: elementor/shortcodes/sc-private-question.php:206
+msgid "Type your question"
+msgstr ""
+
+#: admin/theme-settings/settings/typography-settings.php:11
+#: admin/theme-settings/settings/typography-settings.php:19
+msgid "Typography"
+msgstr ""
+
+#: admin/post-types/prescription.php:108
+msgid "Update Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:238
+msgid "Update Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:264
+msgid "Update Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:114
+msgid "Update Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:59
+msgid "Update Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:212
+msgid "Update Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:186
+msgid "Update Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:134
+msgid "Update Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:160
+msgid "Update Medicine Usage"
+msgstr ""
+
+#: admin/post-types/texonomies.php:174
+msgid "Update Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:121
+msgid "Update Sidebars"
+msgstr ""
+
+#: admin/post-types/texonomies.php:91
+msgid "Update Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:82
+msgid "Update Vital Sign"
+msgstr ""
+
+#: admin/theme-settings/settings/general-settings.php:41
+#: admin/theme-settings/settings/general-settings.php:86
+msgid "Uplaod loader image"
+msgstr ""
+
+#: widgets/class-apps.php:106 widgets/class-query-online.php:114
+#: admin/metaboxes/doctors-options.php:416
+#: admin/metaboxes/doctors-options.php:576 admin/post-types/texonomies.php:306
+#: admin/post-types/texonomies.php:307 admin/post-types/texonomies.php:371
+#: admin/post-types/texonomies.php:372 admin/post-types/texonomies.php:433
+#: admin/post-types/texonomies.php:434 admin/post-types/texonomies.php:489
+#: admin/post-types/texonomies.php:490
+#: admin/metaboxes/classes/class-form-attributes.php:693
+#: admin/metaboxes/classes/class-form-attributes.php:759
+msgid "Upload"
+msgstr ""
+
+#: elementor/shortcodes/sc-working-process.php:108
+msgid "Upload background image."
+msgstr ""
+
+#: elementor/shortcodes/sc-working-process.php:107
+msgid "Upload bg image"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:440
+#: admin/metaboxes/hospitals-options.php:215
+msgid "Upload document"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:54
+msgid "Upload email sender picture here."
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:121
+#: elementor/shortcodes/dc-feedback.php:117
+#: elementor/shortcodes/dc-team.php:119
+#: elementor/shortcodes/sc-download-apps.php:79
+#: elementor/shortcodes/wt-healthforum-banner.php:124
+msgid "Upload Image"
+msgstr ""
+
+#: elementor/shortcodes/dc-easy-steps.php:121
+#: elementor/shortcodes/dc-how-it-work-v2.php:139
+#: elementor/shortcodes/dc-how-it-work.php:116
+#: elementor/shortcodes/sc-working-process.php:131
+msgid "Upload image"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:115
+msgid "Upload image for doctor section"
+msgstr ""
+
+#: elementor/shortcodes/sc-custom-links.php:143
+msgid "Upload image for element background"
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:89
+msgid "Upload Image to be shown on emergency email for Contact section."
+msgstr ""
+
+#: admin/theme-settings/settings/footer-settings.php:65
+msgid "Upload Image to be shown on emergency phone for Contact section."
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:22
+msgid "Upload Image to be shown on the registration form"
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:66
+msgid "Upload Image to be shown."
+msgstr ""
+
+#: elementor/shortcodes/dc-clients.php:122
+#: elementor/shortcodes/dc-easy-steps.php:122
+#: elementor/shortcodes/dc-feedback.php:118
+#: elementor/shortcodes/dc-how-it-work-v2.php:140
+#: elementor/shortcodes/dc-how-it-work.php:117
+#: elementor/shortcodes/dc-team.php:120
+#: elementor/shortcodes/sc-home-slider-v2.php:129
+#: elementor/shortcodes/sc-home-slider.php:99
+#: elementor/shortcodes/sc-working-process.php:132
+msgid "Upload image."
+msgstr ""
+
+#: elementor/shortcodes/sc-download-apps.php:80
+msgid "Upload Image. leave it empty to hide."
+msgstr ""
+
+#: widgets/class-apps-downloads.php:96 widgets/class-apps-downloads.php:105
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/theme-settings/settings/maintainance-settings.php:35
+msgid "Upload Logo."
+msgstr ""
+
+#: admin/theme-settings/settings/header-settings.php:28
+msgid "Upload site header logo."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v2.php:128
+#: elementor/shortcodes/sc-home-slider.php:98
+msgid "Upload slide Image"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:47
+msgid "Upload your email banner here."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:29
+msgid "Upload your email logo here."
+msgstr ""
+
+#: admin/settings/settings.php:137
+msgid "upload_max_filesize = 100M"
+msgstr ""
+
+#: admin/theme-settings/settings/payment-settings.php:49
+msgid "Use WooCommerce checkout"
+msgstr ""
+
+#: hooks/hooks.php:563 elementor/shortcodes/sc-auth-login-button.php:138
+msgid "user"
+msgstr ""
+
+#: admin/partials/functions.php:69 admin/partials/functions.php:160
+msgid "User Imported Successfully"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:183
+#: admin/partials/class-system-payout-listing.php:175
+msgid "User Name"
+msgstr ""
+
+#: helpers/templates/package-subscription.php:78
+msgid "User purchase a package!"
+msgstr ""
+
+#: hooks/hooks.php:183
+msgid "User type field is required."
+msgstr ""
+
+#: hooks/hooks.php:610 elementor/shortcodes/sc-auth-login-button.php:150
+msgid "Username"
+msgstr ""
+
+#: shortcodes/class-authentication.php:86
+msgid "username"
+msgstr ""
+
+#: hooks/hooks.php:255
+msgid "Username already registered"
+msgstr ""
+
+#: hooks/hooks.php:178
+msgid "Username field is required."
+msgstr ""
+
+#: hooks/hooks.php:38
+msgid "Username should not be empty."
+msgstr ""
+
+#: widgets/class-links.php:204 widgets/class-tweets-widget.php:204
+msgid "Username:"
+msgstr ""
+
+#: elementor/shortcodes/sc-contact-details.php:68
+#: elementor/shortcodes/sc-contact-us-form.php:71
+msgid "V1"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:82
+msgid "Vendor Dashboard"
+msgstr ""
+
+#: elementor/shortcodes/dokan-shortcodes.php:83
+msgid "Vendor Listing"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:86
+msgid "Verification"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:450
+#: admin/metaboxes/hospitals-options.php:225
+msgid "Verified document"
+msgstr ""
+
+#: admin/theme-settings/settings/registration-settings.php:89
+msgid "Verify by email"
+msgstr ""
+
+#: hooks/hooks.php:182
+msgid "Verify Password field is required."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:251
+msgid "Videos"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:428
+msgid "View 2"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:429
+msgid "View 3"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:430
+msgid "View 4"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:431
+msgid "View 5"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:432
+msgid "View 6"
+msgstr ""
+
+#: elementor/shortcodes/sc-top-rated.php:213
+msgid "View All"
+msgstr ""
+
+#: admin/post-types/bookings.php:47 admin/post-types/bookings.php:48
+msgid "View Booking"
+msgstr ""
+
+#: admin/post-types/doctors.php:80 admin/post-types/doctors.php:81
+msgid "View Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:141 admin/post-types/doctors.php:142
+msgid "View Doctor Location"
+msgstr ""
+
+#: admin/post-types/healthforum.php:44 admin/post-types/healthforum.php:45
+msgid "View Health Forum Post"
+msgstr ""
+
+#: admin/post-types/hospital.php:80 admin/post-types/hospital.php:81
+msgid "View Hospital"
+msgstr ""
+
+#: admin/post-types/hospitalteam.php:51 admin/post-types/hospitalteam.php:52
+msgid "View Hospital Team"
+msgstr ""
+
+#: admin/post-types/regular_users.php:44 admin/post-types/regular_users.php:45
+msgid "View Patient"
+msgstr ""
+
+#: elementor/shortcodes/wt-healthforum.php:134
+#: elementor/shortcodes/wt-news-articles.php:168
+msgid "View Posts By."
+msgstr ""
+
+#: admin/post-types/prescription.php:49 admin/post-types/prescription.php:50
+msgid "View Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:48 admin/post-types/reviews.php:49
+msgid "View Review"
+msgstr ""
+
+#: admin/post-types/doctors.php:50 admin/post-types/hospital.php:50
+msgid "View User Profile"
+msgstr ""
+
+#: hooks/hooks.php:1376
+msgid "Vimeo Link"
+msgstr ""
+
+#: hooks/hooks.php:1375
+msgid "Vimeo Link?"
+msgstr ""
+
+#: admin/post-types/prescription.php:76
+msgid "Vital Sign"
+msgstr ""
+
+#: admin/post-types/prescription.php:75 admin/post-types/prescription.php:85
+msgid "Vital Signs"
+msgstr ""
+
+#: hooks/hooks.php:1400
+msgid "Vkontakte Link"
+msgstr ""
+
+#: hooks/hooks.php:1399
+msgid "Vkontakte Link?"
+msgstr ""
+
+#: hooks/hooks.php:1197 admin/metaboxes/doctors-options.php:165
+#: admin/metaboxes/hospitals-options.php:134
+msgid "Web url"
+msgstr ""
+
+#: admin/settings/settings.php:70
+msgid "What's New?"
+msgstr ""
+
+#: hooks/hooks.php:1392
+msgid "Whatsapp Number"
+msgstr ""
+
+#: hooks/hooks.php:1391
+msgid "Whatsapp Number?"
+msgstr ""
+
+#: hooks/hooks.php:1368
+msgid "Wikipedia Link"
+msgstr ""
+
+#: hooks/hooks.php:1367
+msgid "Wikipedia Link?"
+msgstr ""
+
+#: elementor/shortcodes/sc-working-process.php:37
+msgid "Working Process"
+msgstr ""
+
+#: admin/metaboxes/hospitals-options.php:107
+#: admin/metaboxes/classes/class-form-attributes.php:314
+msgid "Working Time"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:245
+msgid "WP Guppy"
+msgstr ""
+
+#: admin/theme-settings/settings/directories-settings.php:267
+msgid "WP Guppy Chat Solution"
+msgstr ""
+
+#: hooks/hooks.php:46
+msgid "Wrong email/username or password."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:221
+msgid "XT"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:630
+msgid "Year"
+msgstr ""
+
+#: elementor/shortcodes/dc-search-form.php:93
+#: elementor/shortcodes/sc-auth-login-button.php:91
+#: elementor/shortcodes/sc-auth-register-button.php:91
+#: elementor/shortcodes/sc-custom-links.php:98
+#: elementor/shortcodes/sc-featured-doctros.php:144
+#: elementor/shortcodes/sc-home-slider-v2.php:84
+#: elementor/shortcodes/sc-home-slider.php:83
+#: elementor/shortcodes/wt-healthforum.php:156
+#: elementor/shortcodes/wt-news-articles.php:121
+#: admin/theme-settings/settings/booking-settings.php:28
+#: admin/theme-settings/settings/booking-settings.php:39
+#: admin/theme-settings/settings/booking-settings.php:50
+#: admin/theme-settings/settings/booking-settings.php:61
+#: admin/theme-settings/settings/directories-settings.php:63
+#: admin/theme-settings/settings/directories-settings.php:74
+#: admin/theme-settings/settings/directories-settings.php:85
+#: admin/theme-settings/settings/directories-settings.php:96
+#: admin/theme-settings/settings/directories-settings.php:204
+#: admin/theme-settings/settings/directories-settings.php:215
+#: admin/theme-settings/settings/directories-settings.php:226
+#: admin/theme-settings/settings/directories-settings.php:442
+#: admin/theme-settings/settings/directories-settings.php:458
+#: admin/theme-settings/settings/email-settings.php:487
+#: admin/theme-settings/settings/health-forum.php:65
+#: admin/theme-settings/settings/health-forum.php:75
+#: admin/theme-settings/settings/registration-settings.php:117
+#: admin/theme-settings/settings/search-doctors.php:32
+#: admin/theme-settings/settings/search-doctors.php:65
+#: admin/theme-settings/settings/search-doctors.php:77
+#: admin/theme-settings/settings/social-settings.php:24
+msgid "Yes"
+msgstr ""
+
+#: hooks/hooks.php:1022
+msgid "You have already liked this post"
+msgstr ""
+
+#: hooks/hooks.php:184
+msgid "You should agree to terms and conditions."
+msgstr ""
+
+#: hooks/hooks.php:460
+msgid ""
+"Your account has been created. After the verification your will be do "
+"anything on the site"
+msgstr ""
+
+#: hooks/hooks.php:456
+msgid ""
+"Your account has been created. Please check your email for the verification"
+msgstr ""
+
+#: helpers/templates/email-authe.php:24
+msgid "Your account is approved"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1514
+msgid "Your article has been published"
+msgstr ""
+
+#: helpers/templates/article-status.php:26
+msgid "Your Article is pending status"
+msgstr ""
+
+#: helpers/templates/article-status.php:127
+msgid "Your Article is publish status"
+msgstr ""
+
+#: hooks/hooks.php:185
+msgid "Your name field is required."
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:74
+msgid "Your software partner"
+msgstr ""
+
+#: admin/theme-settings/settings/email-settings.php:1475
+msgid "Your submitted needs approval"
+msgstr ""
+
+#: hooks/hooks.php:1384
+msgid "Youtube Link"
+msgstr ""
+
+#: widgets/class-contact-info.php:189 elementor/shortcodes/dc-team.php:155
+msgid "Youtube link"
+msgstr ""
+
+#: hooks/hooks.php:1383
+msgid "Youtube Link?"
+msgstr ""

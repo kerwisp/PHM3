@@ -1,0 +1,225 @@
+.dc-navdashboard ul li a i, .dc-countersoon li, .dc-jobpostedholder>.col-12, .dc-dashboardtabs, .dc-dbsectionspacetest .dc-dashboardbox.dc-manageteam-wrap .dc-recentapoint-holder .dc-recentapoint .dc-recentapoint-content .dc-recentapoint-figure,.dc-attachfilevtwo li, .dc-dragdroptool, .dc-myskills li .dc-rightarea a, .dc-updatall span, .dc-addnew.dc-tabscontenttitle h3, .dc-addew h2, .dc-accordioninnertitle .dc-rightarea a, .dc-recent-content span, .dc-moreservice-content .dc-checkbox-holder .dc-checkbox, .dc-userform.dc-form-appointment fieldset .dc-radio-holder .dc-radio, .dc-form-appointment .dc-checkbox-holder .dc-checkbox, .dc-articleimg, .dc-listedarticle .dc-articles .dc-articleslist-content .dc-articlecontent .dc-moreoptions, .dc-listedarticle .dc-articles .dc-articleslist-content .dc-articlecontent .dc-moreoptions li, .dc-btnaction a, .payout-holder .dc-checkboxholder .dc-radio, .dc-userlistingimg, .dc-subpaneltitlevtwo>span, .dc-titlewithicon h3, .dc-package, .dc-accountinfo li, .dc-clinics-title, .dc-actionbtn a,.dc-navdashboard,.dc-filecontent span,.dc-user-info,.dc-print-options,.dc-print-options a,.dc-spec-wrap, .dc-required-details,.dc-info-required.dc-user-info .dc-title span,.dc-myskills li.dc-skillsaddinfo .skill-dynamic-field,.dc-offersmessages ul li,.dc-offersmessages .dc-ad figure{float:right}
+.dc-updatall a.dc-btn, .dc-addnew a, .dc-recent-content .dc-btn, .dc-listedarticle .dc-articles .dc-articleslist-content .dc-articlecontent .dc-rightarea, .dc-clinics-content .dc-btnarea,.dc-dbsectionspacetest .dc-dashboardbox.dc-manageteam-wrap .dc-recentapoint-holder .dc-recentapoint .dc-recent-content .dc-recent-contenttest,.dc-status.dc-rightarea{float:left}
+.dc-navdashboard>ul>li:before, .dc-sidebarwrapper, .dc-tabstitle li a:before, .dc-tabscontenttitle:before, .dc-tablecategories thead tr th:first-child:before, .dc-tablecategories tbody tr td:first-child:before{right:0;left:auto}
+.dc-countersoon, .dc-formprojectinfo .dc-attachfilevtwo .dc-closediv,.dc-username:after,.dc-userlogedin .dc-usernav{right:auto;left:0}
+.dc-dashboardtabsholder, .dc-dashboardbox, .dc-tablecategories thead tr th, table.dc-tablecategories tbody tr td,.dc-jobalerts,.dc-updatall span{text-align:right}
+.dc-header-dashboard .dc-userlogedin{display:flex;align-items:center;float:left;margin-right:25px;margin-left:0}
+.dc-main{padding-right:310px;padding-left:40px}
+.mCSB_scrollTools .mCSB_draggerRail{width:0}
+.dc-companysinfo .dc-title span i{margin-right:10px;margin-left:0}
+.dc-navdashboard ul li a span{text-align:right;float:right}
+.dc-countersoon li+li:before{right:-2px;left:auto}
+.dc-insightsitem>span{left:-20px;right:auto}
+.dc-recentapoint-content figure{
+    float: right;
+    margin: 0 0 0 10px;
+}
+.dc-print-options a+a{
+    margin-right: 10px;
+    margin-left: 0;
+}
+.dcunread-count{left:10px;right:auto}
+.dc-tabstitle li a:after{left:-1px;right:auto}
+.dc-tabscontent{border-right:1px solid #f2f2f2;border-left:0}
+.dc-select select{padding-right:20px;padding-left:30px}
+.toolip-wrapo input{padding-right:20px;padding-left:50px}
+.loc-icon input[type="text"]{padding-left:40px;padding-right:20px}
+.loc-icon .geolocate{left:25px;right:auto}
+.form-group.form-group-label label{margin-left:15px;margin-right:0}
+.dc-formprojectinfo .dc-attachfilevtwo span{padding-left:30px;padding-right:0}
+.dc-formprojectinfo .dc-attachfile em a{left:10px;right:auto;margin-right:10px;margin-left:0}
+.dc-skillsform fieldset .form-group{padding-left:170px;padding-right:0}
+.dc-skillsform fieldset .form-group.dc-btnarea{right:auto;left:0;padding:0}
+.dc-dragdroptool a, .dc-filecontent a{margin-left:10px;margin-right:0}
+.dc-myskills li .dc-rightarea a+a, .dc-accordioninnertitle .dc-rightarea a+a, .dc-btnaction a+a{margin-right:10px;margin-left:0}
+.dc-updatall{padding-right:75px;padding-left:10px}
+.dc-updatall i{right:-10px;left:auto}
+.dc-downloads-files li img{margin-left:10px;margin-right:0;float:right}
+.dc-apoint-date{border-left:1px solid #eee;border-right:0}
+.dc-apoint-noti:after{right:20px;left:auto}
+.dc-apoint-noti{padding-right:45px;padding-left:19px}
+.dc-hospital-team .form-group .dc-moreservice-content .dc-checkbox-holder{margin-right:-20px;margin-left:-5px;float:right}
+.dc-articles-list .dc-articlecontent{border-left:1px solid #eee;border-right:0;border-radius:4px 0 0 4px}
+.dc-articles-list .dc-article .dc-articleimg,.dc-articles-list .dc-article .dc-articleimg>img{border-radius:0 4px 4px 0}
+.dc-addtag-holder .dc-skillsform fieldset .form-group, .dc-category-holder .dc-skillsform fieldset .form-group{padding:0}
+.dc-payout-settings .dc-checkboxholder .dc-radio label{padding-right:50px;padding-left:20px}
+.dc-payout-settings .dc-checkboxholder .dc-radio input[type=radio]+label:before, .dc-payout-settings .dc-checkboxholder .dc-radio input[type=radio]+label:after{left:auto;right:20px}
+[class*="dc-specility"] .remove-repeater{left:30px;right:auto}
+[class*="dc-specility"]>.am_field{padding-right:0;padding-left:60px}
+.dc-subpaneltitlevtwo .dc-btnaction{float:left;margin-right:30px;margin-left:0}
+.dc-docsettingscontent .dc-searchvlistvtwo .dc-docpostcontent .dc-searchvtwo{padding-left:50px;padding-right:20px}
+.dc-docsettingscontent .dc-searchvlistvtwo .dc-docpostcontent .dc-actions{right:auto;left:20px}
+.dc-titlewithicon .dc-clickremoveall{display:flex;align-items:center;float:left}
+.dc-titlewithicon .dc-clickremoveall i{padding-left:5px}
+.dc-on-off{float:right;margin-left:10px;margin-right:0}
+.dc-on-off input:checked+label>i{left:-15px}
+.chosen-container-multi{padding-left:40px;padding-right:10px}
+.chosen-container-multi:after, .chosen-container-multi .chosen-choices li.search-choice .search-choice-close{left:15px;right:auto}
+.chosen-container-multi .chosen-choices li.search-choice{float:right;padding-right:20px;padding-left:40px}
+.dc-clinicsimg{float:right;margin-left:20px;margin-right:0}
+.dc-spaces i{left:19px;right:auto}
+#confirmBox .button+.button{margin-right:20px;margin-left:0}
+.dc-team-status{margin-left:10px;margin-right:0}
+.dc-username{
+    padding-right: 0;
+    padding-left: 30px;
+}
+.dc-package{
+    border-left: 1px solid #eee;
+    border-right: 0;
+}
+.alert{
+    padding-right: 20px;
+    padding-left: 150px;
+}
+.dc-alertbtn.warning{
+   left: 50px;
+   right: auto;
+}
+.dc-countersoon{border-radius: 4px 0 4px 0;}
+.dc-offersmessages ul li:first-child{
+    border-right: 0;
+    border-left: 1px solid #f2f2f2;
+}
+.dc-dotnotification{
+    padding-right: 20px!important;
+    padding-left: 30px!important;
+}
+.dc-adcontent{padding-left: 0;padding-right: 10px; }
+.dc-dotnotification:before{right: auto;left: 20px;}
+.dc-offersmessages .dc-ad:after{left: auto;right: 0;}
+.dc-uploading:before{
+    left: auto;
+    right: 18px;
+}
+.dc-uploading{padding-left: 0!important;padding-right: 42px!important;}
+
+
+
+.dc-header-dashboard{
+    padding: 0 295px 0 25px;
+}
+.dc-headerform-holder {
+    margin-left: 0;
+    margin-right: auto;
+}
+.dc-headerform .dc-formbtn{
+    left: -4px;
+    right: auto;
+}
+.dc-removeform{
+    margin-left: 0;
+    margin-right: 20px;
+}
+.dc-headerform fieldset{
+    padding-left: 50px;
+    padding-right: 0;
+}
+.dc-form-advancedsearch fieldset .form-group:first-child{
+    float: right;
+}
+.dc-formsearch fieldset .dc-filter-users{
+    padding-left: 60px;
+    padding-right: 20px;
+}
+.form-disabeld .form-control, .form-control[readonly]{
+    padding: 10px 20px 10px 40px;
+}
+.dc-manageteam-wrap .dc-recentapoint-content .dc-recent-content a+a{
+    margin-left: 20px;
+    margin-right: 0;
+}
+@media (max-width: 1680px){
+    .dc-header-dashboard{
+        padding: 0 55px 0 5px;
+    }
+    body.rtl .dc-main {padding: 20px 90px 20px 40px;}
+    body.rtl .dc-wrapper .dc-main {
+        padding-right: 90px;
+        padding-left: 40px;
+    }
+    body.rtl .dc-btnmenutoggle {
+        right: 30px;
+        left: auto;
+    }
+    body.rtl .dc-closemenu .dc-btnmenutoggle{
+        right: auto;
+        left: 0;
+        margin-left: -20px;
+        margin-right: 0;
+        border-radius: 4px;
+    }
+    body.rtl .ti-arrow-right:before {content: "\e629";}
+    body.rtl .dc-closemenu .ti-arrow-right:before {content: "\e628";}
+}
+@media (max-width: 1440px) and (min-width: 1200px){
+    body.rtl .dc-recentapoint-holdertest .dc-recent-content .dc-btn {float: right;}
+}
+@media (max-width: 1199px){
+    body.rtl .dc-package:nth-child(2) {border-left: 0;}
+}
+@media (max-width: 767px){
+    body.rtl .dc-wrapper .dc-main {padding: 20px 15px;}
+    body.rtl .dc-btnmenutoggle {
+        right: 0;
+        left: auto;
+        border-radius: 4px 0 0 4px;
+    }
+    body.rtl .hidpi-logowrap .dc-username {padding: 0 0 0 20px;}
+    body.rtl .dc-actions .dc-removesingle_saved{float: left;}
+    body.rtl .dc-docsettingscontent .dc-searchvlistvtwo .dc-docpostcontent .dc-searchvtwo{padding: 20px;}
+}
+@media (max-width: 575px){
+    body.rtl .dc-recentapoint-holdertest .dc-recent-content a{float: right;}
+}
+@media (max-width: 568px){
+    body.rtl .form-group-label .dc-labelgroup{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    body.rtl [class*="dc-specility"] .remove-repeater{
+        left: 10px;
+        right: auto;
+    }
+    body.rtl [class*="dc-specility"] > .am_field {
+        padding-left: 50px;
+        padding-right: 0;
+    }
+    body.rtl .dc-subpaneltitlevtwo .dc-btnaction {
+        margin-right: 10px;
+        margin-left: 0;
+    }
+    body.rtl .dc-sidepadding select{width: 100%;}
+}
+@media (max-width: 480px){
+    body.rtl .dc-addnew a {
+        float: right;
+        clear: both;
+    }
+}
+@media (max-width: 341px){
+    body.rtl .dc-recentapoint-holdertest .dc-recentapoint-content{
+        padding-left: 19px;
+        padding-right: 35px;
+    }
+}
+.dc-headerform .select2-container--default .select2-selection--single{
+    border-right: 0;
+    border-radius: 4px 0 0 4px;
+    border-left: 1px solid #ddd;
+}
+.dc-headerform fieldset .form-group:first-child input,
+.dc-headerform fieldset .form-group:first-child .dc-select select{
+    border-radius: 0 4px 4px 0;
+}
+.social-profiles-wrap .dc-inputwithicon i{
+    right: auto;
+    left: 7px;
+    border-left: 0;
+    border-right: 2px solid #eee;
+}
+.social-profiles-wrap .dc-inputwithicon i + input{
+    padding-right: 20px;
+    padding-left: 70px;
+}
